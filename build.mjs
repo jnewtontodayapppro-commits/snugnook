@@ -172,7 +172,7 @@ function articlePage(p, posts) {
       <span class="cat">${esc(cat)}</span>
       <h1>${esc(p.title)}</h1>
       <div class="byline">By ${esc(site.author)} · Updated ${fmtDate(p.updated || p.date)} · ${p.readTime} min read</div>
-      <p class="disclosure">SnugNook is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you.</p>
+      <p class="disclosure">As an Amazon Associate, SnugNook earns from qualifying purchases. When you buy through links on this page, we may earn a commission — at no extra cost to you. We only recommend items we believe earn their place in a small space.</p>
       ${p.body}
     </article>
     ${relBlock}
