@@ -4,11 +4,11 @@ export const site = {
   tagline: "Big ideas for small spaces",
   description:
     "Practical guides, smart product picks, and clever ideas for making the most of apartments, tiny homes, dorms, and any small space.",
-  // Update this to your custom domain once purchased. Free-subdomain default for launch:
-  url: "https://snugnook.pages.dev",
+  // Custom domain (registered):
+  url: "https://snugnook.net",
   locale: "en_US",
   author: "The SnugNook Team",
-  email: "hello@snugnook.com",
+  email: "hello@snugnook.net",
   // Amazon associate tag goes here once approved (leave blank until then):
   amazonTag: "",
   nav: [
