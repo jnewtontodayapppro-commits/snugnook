@@ -1,68 +1,75 @@
-// Generate vertical (1000x1500) Pinterest pin images for each article.
+// Generate upgraded "Bold Split" (Concept B) Pinterest pins (1000x1500) for each article.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import matter from "gray-matter";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const CONTENT = path.join(__dirname, "..", "content");
 const OUT = path.join(__dirname, "..", "pins");
 fs.mkdirSync(OUT, { recursive: true });
 
-// Pin-optimized headlines (punchier than SEO titles) + the search phrase vibe.
+const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700;9..144,900&family=Archivo:wght@500;600;700;800&display=swap" rel="stylesheet">`;
+
+// Per-article pin content. `num` drives the hero number for listicles; otherwise `emoji` shows in a badge.
+// `accent` swaps the top color block so the batch isn't monotone.
 const PINS = {
-  "make-small-room-look-bigger": { kicker: "SMALL SPACE TRICKS", title: "12 Ways to Make a Small Room Look Bigger", emoji: "🪞" },
-  "space-saving-furniture-small-apartments": { kicker: "TINY APARTMENT", title: "15 Space-Saving Furniture Pieces That Actually Work", emoji: "🛋️" },
-  "organize-tiny-kitchen-no-counter-space": { kicker: "SMALL KITCHENS", title: "How to Organize a Tiny Kitchen With No Counter Space", emoji: "🍳" },
-  "renter-friendly-upgrades-deposit-safe": { kicker: "RENTER-FRIENDLY", title: "23 Renter Upgrades That Won't Cost Your Deposit", emoji: "🔑" },
-  "best-over-the-door-organizers-small-apartments": { kicker: "ORGANIZATION", title: "The Best Over-the-Door Organizers for Small Homes", emoji: "🚪" },
-  "best-under-bed-storage-containers": { kicker: "STORAGE HACKS", title: "The Best Under-Bed Storage for Small Bedrooms", emoji: "🛏️" },
-  "best-closet-organizers-small-apartments": { kicker: "CLOSET GOALS", title: "Double Your Small Closet: The Complete System", emoji: "👔" },
-  "small-bathroom-storage-ideas-renters": { kicker: "RENTER-FRIENDLY", title: "Small Bathroom Storage Ideas (No Drilling!)", emoji: "🚿" },
-  "home-office-tiny-apartment": { kicker: "WORK FROM HOME", title: "How to Set Up a Home Office in a Tiny Apartment", emoji: "💻" },
-  "best-room-dividers-studio-apartments": { kicker: "STUDIO LIVING", title: "The Best Room Dividers for Studio Apartments", emoji: "🚪" },
+  "make-small-room-look-bigger":                 { kicker: "SMALL-SPACE TRICKS", num: "12", head: "Ways to Make a Small Room Look Bigger", sub: "Designer tricks using light, mirrors, and layout.", accent: "teal" },
+  "space-saving-furniture-small-apartments":     { kicker: "TINY APARTMENT",     num: "15", head: "Space-Saving Furniture Pieces That Actually Work", sub: "Multi-tasking picks worth your square footage.", accent: "clay" },
+  "organize-tiny-kitchen-no-counter-space":      { kicker: "SMALL KITCHENS",     emoji: "🍳", head: "Organize a Tiny Kitchen With No Counter Space", sub: "A room-by-room system that frees up space.", accent: "plum" },
+  "renter-friendly-upgrades-deposit-safe":       { kicker: "RENTER-FRIENDLY",    num: "23", head: "Renter Upgrades That Won't Cost Your Deposit", sub: "Damage-free ways to upgrade any rental.", accent: "teal" },
+  "best-over-the-door-organizers-small-apartments": { kicker: "ORGANIZATION",   emoji: "🚪", head: "The Best Over-the-Door Organizers", sub: "Turn every door into hidden storage — no tools.", accent: "clay" },
+  "best-under-bed-storage-containers":           { kicker: "STORAGE HACKS",      emoji: "🛏️", head: "The Best Under-Bed Storage for Small Bedrooms", sub: "Reclaim the biggest wasted space in the room.", accent: "teal" },
+  "best-closet-organizers-small-apartments":     { kicker: "CLOSET GOALS",       emoji: "👔", head: "Double Your Small Closet", sub: "A complete, no-install system for renters.", accent: "plum" },
+  "small-bathroom-storage-ideas-renters":        { kicker: "RENTER-FRIENDLY",    emoji: "🚿", head: "Small Bathroom Storage Ideas (No Drilling)", sub: "Add shelves and order without a single hole.", accent: "clay" },
+  "home-office-tiny-apartment":                  { kicker: "WORK FROM HOME",     emoji: "💻", head: "Set Up a Home Office in a Tiny Apartment", sub: "A real workspace that folds away after 5.", accent: "teal" },
+  "best-room-dividers-studio-apartments":        { kicker: "STUDIO LIVING",      emoji: "🚪", head: "The Best Room Dividers for Studio Apartments", sub: "Zone one room without building a single wall.", accent: "plum" },
 };
 
-function pinHtml({ kicker, title, emoji }) {
-  return `<!doctype html><html><head><meta charset="utf-8"><style>
-  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@500;600&display=swap');
-  * { margin:0; padding:0; box-sizing:border-box; }
-  body { width:1000px; height:1500px; font-family:'Inter',sans-serif; }
-  .pin { width:1000px; height:1500px; background:linear-gradient(160deg,#fbf9f6 0%,#f3ede3 100%); display:flex; flex-direction:column; padding:70px 68px; position:relative; }
-  .top { display:flex; align-items:center; gap:14px; }
-  .logo { font-family:'Fraunces',serif; font-weight:700; font-size:40px; color:#22201d; }
-  .logo span { color:#2f7d6b; }
-  .card { margin-top:44px; background:#fff; border-radius:36px; box-shadow:0 20px 60px rgba(0,0,0,.08); padding:70px 60px; flex:1; display:flex; flex-direction:column; }
-  .emoji { font-size:150px; text-align:center; margin:30px 0 44px; }
-  .kicker { color:#e08a3c; font-weight:700; letter-spacing:3px; font-size:26px; text-align:center; }
-  .title { font-family:'Fraunces',serif; font-weight:700; font-size:74px; line-height:1.12; color:#22201d; text-align:center; margin-top:26px; letter-spacing:-1px; }
-  .rule { width:90px; height:6px; background:#2f7d6b; border-radius:3px; margin:44px auto 0; }
-  .foot { margin-top:auto; text-align:center; }
-  .foot .cta { font-size:34px; font-weight:600; color:#2f7d6b; }
-  .foot .url { font-size:30px; color:#8a847b; margin-top:8px; }
-  .badge { position:absolute; top:70px; right:68px; background:#2f7d6b; color:#fff; font-weight:600; font-size:24px; padding:12px 22px; border-radius:999px; }
-  </style></head><body>
-  <div class="pin">
-    <div class="top"><div class="logo">Snug<span>Nook</span></div></div>
-    <div class="badge">Small-Space Living</div>
+const ACCENTS = {
+  teal: { top: "linear-gradient(160deg,#2f7d6b 0%,#245e51 100%)", badge: "#c9772f", eyebrow: "#bfe4da", cta: "#2f7d6b" },
+  clay: { top: "linear-gradient(160deg,#c9772f 0%,#a85f22 100%)", badge: "#2f7d6b", eyebrow: "#ffe6c9", cta: "#c9772f" },
+  plum: { top: "linear-gradient(160deg,#7d5a86 0%,#5d4064 100%)", badge: "#c9772f", eyebrow: "#e4d3ea", cta: "#7d5a86" },
+};
+
+function pinHtml({ kicker, num, emoji, head, sub, accent }) {
+  const a = ACCENTS[accent] || ACCENTS.teal;
+  const hero = num
+    ? `<div class="num">${num}</div>`
+    : `<div class="emojibadge">${emoji}</div>`;
+  const headline = num ? `${num} ${head}` : head;
+  return `<!doctype html><html><head><meta charset="utf-8">${FONTS}<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{width:1000px;height:1500px}
+  .pin{width:1000px;height:1500px;position:relative;overflow:hidden;background:#f7efe4;font-family:'Archivo',sans-serif}
+  .top{height:730px;background:${a.top};position:relative;padding:70px 74px}
+  .brand{font-family:'Fraunces';font-weight:700;font-size:44px;color:#f7efe4}
+  .brand span{opacity:.75}
+  .eyebrow{position:absolute;top:250px;left:74px;color:${a.eyebrow};font-weight:800;letter-spacing:5px;font-size:29px}
+  .num{position:absolute;top:250px;left:68px;font-family:'Fraunces';font-weight:900;font-size:400px;line-height:.78;color:#ffffff;opacity:.15;letter-spacing:-12px}
+  .emojibadge{position:absolute;top:330px;left:74px;width:230px;height:230px;background:rgba(255,255,255,.14);border:3px solid rgba(255,255,255,.35);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:120px}
+  .card{position:absolute;top:600px;left:58px;right:58px;bottom:64px;background:#fff;border-radius:36px;box-shadow:0 26px 64px rgba(60,40,15,.20);padding:62px 58px;display:flex;flex-direction:column}
+  .badge{align-self:flex-start;background:${a.badge};color:#fff;font-weight:700;font-size:23px;letter-spacing:1.5px;padding:11px 22px;border-radius:999px;margin-bottom:28px}
+  .head{font-family:'Fraunces';font-weight:700;font-size:78px;line-height:1.06;color:#22201d;letter-spacing:-1.5px}
+  .sub{font-size:36px;line-height:1.35;color:#6c6459;margin-top:26px;font-weight:500}
+  .foot{margin-top:auto;display:flex;align-items:center;justify-content:space-between;border-top:2px solid #eee5d7;padding-top:26px}
+  .cta{font-family:'Archivo';font-weight:700;font-size:33px;color:${a.cta}}
+  .url{font-weight:700;font-size:30px;color:#a99a86}
+  </style></head><body><div class="pin">
+    <div class="top">
+      <div class="brand">Snug<span>Nook</span></div>
+      ${hero}
+      <div class="eyebrow">${kicker}</div>
+    </div>
     <div class="card">
-      <div class="kicker">${kicker}</div>
-      <div class="emoji">${emoji}</div>
-      <div class="title">${title}</div>
-      <div class="rule"></div>
-      <div class="foot"><div class="cta">Read the full guide →</div><div class="url">snugnook.net</div></div>
+      <span class="badge">SMALL-SPACE LIVING</span>
+      <div class="head">${headline}</div>
+      <div class="sub">${sub}</div>
+      <div class="foot"><span class="cta">Read the full guide →</span><span class="url">snugnook.net</span></div>
     </div>
   </div></body></html>`;
 }
 
 for (const [slug, meta] of Object.entries(PINS)) {
-  // sanity: ensure the article exists
-  const files = fs.readdirSync(CONTENT).filter((f) => f.endsWith(".md"));
-  const found = files.some((f) => {
-    const { data } = matter(fs.readFileSync(path.join(CONTENT, f), "utf8"));
-    return (data.slug || f.replace(/\.md$/, "")) === slug;
-  });
-  if (!found) { console.warn("no article for", slug); continue; }
   fs.writeFileSync(path.join(OUT, `${slug}.html`), pinHtml(meta));
 }
-console.log("Wrote pin HTML for", Object.keys(PINS).length, "articles to", OUT);
+console.log("Wrote", Object.keys(PINS).length, "Bold-Split pin HTML files to", OUT);
