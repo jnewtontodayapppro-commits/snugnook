@@ -13,6 +13,22 @@ export const site = {
   amazonTag: "wildguns84-20",
   // Pinterest domain-claim verification tag:
   pinterestVerify: "c4a42655d3d62daf30c7051844481c0e",
+  // ClickBank affiliate (nickname: pinitwjosh). Paste the real HopLink from the
+  // Marketplace "Promote" button into `url` and the callout goes live everywhere.
+  // A callout only renders when its `url` is set, so nothing broken ever publishes.
+  clickbank: {
+    nickname: "pinitwjosh",
+    offers: {
+      woodworking: {
+        url: "", // e.g. https://pinitwjosh.VENDOR.hop.clickbank.net/?tid=snugnook
+        tag: "BUILD IT YOURSELF",
+        title: "Want the exact plans to build these?",
+        blurb:
+          "A library of 16,000+ step-by-step woodworking plans — shelving, storage beds, fold-down desks, and space-savers with cut lists and diagrams for every skill level.",
+        cta: "See the plans →",
+      },
+    },
+  },
   nav: [
     { label: "Guides", href: "/guides/" },
     { label: "Organization", href: "/category/organization/" },

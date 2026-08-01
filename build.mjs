@@ -32,6 +32,14 @@ function amazonLink(term) {
   return site.amazonTag ? `${base}&tag=${encodeURIComponent(site.amazonTag)}` : base;
 }
 
+// Renders a ClickBank "build it yourself" callout — but ONLY if the offer's
+// HopLink is configured. Until then it renders nothing (no dead links ship).
+function cbCallout(key) {
+  const o = site.clickbank?.offers?.[key];
+  if (!o || !o.url) return "";
+  return `<div class="cbbox"><span class="cbtag">${esc(o.tag)}</span><h4>${esc(o.title)}</h4><p>${esc(o.blurb)}</p><a class="cbbtn" href="${o.url}" target="_blank" rel="nofollow sponsored">${esc(o.cta)}</a></div>`;
+}
+
 /* ---------- load content ---------- */
 function loadPosts() {
   if (!fs.existsSync(CONTENT)) return [];
@@ -47,7 +55,8 @@ function loadPosts() {
       const body = marked
         .parse(content)
         .replace(/<h([2-6])>([^<]*?)\s*\{#([\w-]+)\}<\/h\1>/g, '<h$1 id="$3">$2</h$1>')
-        .replace(/href="AMZ:([^"]+)"(\s+rel="[^"]*")?/g, (_m, term) => `href="${amazonLink(term)}" target="_blank" rel="nofollow sponsored"`);
+        .replace(/href="AMZ:([^"]+)"(\s+rel="[^"]*")?/g, (_m, term) => `href="${amazonLink(term)}" target="_blank" rel="nofollow sponsored"`)
+        .replace(/<p>\s*\[\[cb:([\w-]+)\]\]\s*<\/p>/g, (_m, key) => cbCallout(key));
       const words = content.split(/\s+/).filter(Boolean).length;
       return {
         ...data,
