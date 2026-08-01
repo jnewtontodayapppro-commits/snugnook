@@ -9,8 +9,8 @@ export const site = {
   locale: "en_US",
   author: "The SnugNook Team",
   email: "hello@snugnook.net",
-  // Amazon associate tag goes here once approved (leave blank until then):
-  amazonTag: "",
+  // Amazon Associates tracking ID (US store):
+  amazonTag: "wildguns84-20",
   nav: [
     { label: "Guides", href: "/guides/" },
     { label: "Organization", href: "/category/organization/" },
