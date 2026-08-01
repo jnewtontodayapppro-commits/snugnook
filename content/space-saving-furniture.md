@@ -67,4 +67,6 @@ Not every "space-saving" product delivers. **Inflatable and ultra-cheap folding 
 
 <div class="pick"><span class="tag">Best storage bed</span><h4>Platform bed with under-drawers</h4><p>Replaces a dresser and keeps the floor clear underneath. Look for four+ drawers.</p><a class="btn" href="AMZ:platform bed frame with storage drawers" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
+[[cb:woodworking]]
+
 Buy for the job you actually do most — if you host, prioritize flexible seating and tables; if you're short on closet space, start with a storage bed. One well-chosen multi-tasker beats three single-use pieces every time.

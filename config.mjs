@@ -20,7 +20,7 @@ export const site = {
     nickname: "pinitwjosh",
     offers: {
       woodworking: {
-        url: "", // e.g. https://pinitwjosh.VENDOR.hop.clickbank.net/?tid=snugnook
+        url: "https://hop.clickbank.net/?affiliate=pinitwjosh&vendor=tedsplans&tid=snugnook",
         tag: "BUILD IT YOURSELF",
         title: "Want the exact plans to build these?",
         blurb:
