@@ -47,7 +47,7 @@ function loadPosts() {
       const body = marked
         .parse(content)
         .replace(/<h([2-6])>([^<]*?)\s*\{#([\w-]+)\}<\/h\1>/g, '<h$1 id="$3">$2</h$1>')
-        .replace(/href="AMZ:([^"]+)"/g, (_m, term) => `href="${amazonLink(term)}" target="_blank" rel="nofollow sponsored"`);
+        .replace(/href="AMZ:([^"]+)"(\s+rel="[^"]*")?/g, (_m, term) => `href="${amazonLink(term)}" target="_blank" rel="nofollow sponsored"`);
       const words = content.split(/\s+/).filter(Boolean).length;
       return {
         ...data,
