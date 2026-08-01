@@ -77,6 +77,7 @@ function head({ title, description, url, image, type = "website", jsonld }) {
 <link rel="stylesheet" href="/styles.css">
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/rss.xml">
 <link rel="icon" href="/favicon.svg">
+${site.pinterestVerify ? `<meta name="p:domain_verify" content="${site.pinterestVerify}">` : ""}
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ""}
 </head><body>`;
 }

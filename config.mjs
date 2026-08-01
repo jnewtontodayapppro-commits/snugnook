@@ -11,6 +11,8 @@ export const site = {
   email: "hello@snugnook.net",
   // Amazon Associates tracking ID (US store):
   amazonTag: "wildguns84-20",
+  // Pinterest domain-claim verification tag:
+  pinterestVerify: "c4a42655d3d62daf30c7051844481c0e",
   nav: [
     { label: "Guides", href: "/guides/" },
     { label: "Organization", href: "/category/organization/" },
