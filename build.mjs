@@ -87,6 +87,8 @@ function head({ title, description, url, image, type = "website", jsonld }) {
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/rss.xml">
 <link rel="icon" href="/favicon.svg">
 ${site.pinterestVerify ? `<meta name="p:domain_verify" content="${site.pinterestVerify}">` : ""}
+${site.analytics?.cloudflareToken ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${site.analytics.cloudflareToken}"}'></script>` : ""}
+${site.analytics?.ga4Id ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${site.analytics.ga4Id}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${site.analytics.ga4Id}');</script>` : ""}
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ""}
 </head><body>`;
 }

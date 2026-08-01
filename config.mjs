@@ -13,6 +13,10 @@ export const site = {
   amazonTag: "wildguns84-20",
   // Pinterest domain-claim verification tag:
   pinterestVerify: "c4a42655d3d62daf30c7051844481c0e",
+  // Analytics — set one and it auto-loads site-wide.
+  // cloudflareToken: privacy-first, cookieless traffic stats (no consent banner needed).
+  // ga4Id: Google Analytics 4 ("G-XXXX") — adds on-site outbound-link-click tracking.
+  analytics: { cloudflareToken: "", ga4Id: "" },
   // ClickBank affiliate (nickname: pinitwjosh). Paste the real HopLink from the
   // Marketplace "Promote" button into `url` and the callout goes live everywhere.
   // A callout only renders when its `url` is set, so nothing broken ever publishes.
