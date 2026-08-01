@@ -70,10 +70,10 @@ One overhead light flattens a room. Two or three smaller light sources at differ
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Best all-rounder</span><h4>Full-length leaning floor mirror</h4><p>A single large leaning mirror is the highest-impact, lowest-effort change on this list. No drilling, instantly doubles the light.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Best all-rounder</span><h4>Full-length leaning floor mirror</h4><p>A single large leaning mirror is the highest-impact, lowest-effort change on this list. No drilling, instantly doubles the light.</p><a class="btn" href="AMZ:full length floor mirror" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Renter favorite</span><h4>Extra-long curtain rod + sheer panels</h4><p>Hang high and wide to fake taller ceilings and a bigger window. Tension and no-drill options exist for deposit-safe installs.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Renter favorite</span><h4>Extra-long curtain rod + sheer panels</h4><p>Hang high and wide to fake taller ceilings and a bigger window. Tension and no-drill options exist for deposit-safe installs.</p><a class="btn" href="AMZ:extra long curtain rod sheer curtains" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Space-saver</span><h4>Tall, narrow 5-tier bookcase</h4><p>Maximum storage, minimum floor. Reinforces the vertical lines that make rooms feel taller.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Space-saver</span><h4>Tall, narrow 5-tier bookcase</h4><p>Maximum storage, minimum floor. Reinforces the vertical lines that make rooms feel taller.</p><a class="btn" href="AMZ:tall narrow bookcase 5 tier" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Start with light and mirrors — they're the cheapest changes and the ones you'll notice the moment you walk in. Once the room feels brighter, the rest is fine-tuning.

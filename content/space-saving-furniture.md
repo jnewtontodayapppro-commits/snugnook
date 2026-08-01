@@ -61,10 +61,10 @@ Not every "space-saving" product delivers. **Inflatable and ultra-cheap folding 
 
 ## Our top picks {#picks}
 
-<div class="pick"><span class="tag">Best value</span><h4>Upholstered storage ottoman</h4><p>The easiest multi-tasker to add today. Seating, table, and hidden storage in one.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Best value</span><h4>Upholstered storage ottoman</h4><p>The easiest multi-tasker to add today. Seating, table, and hidden storage in one.</p><a class="btn" href="AMZ:storage ottoman with storage" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Studio essential</span><h4>Wall-mounted drop-leaf table</h4><p>Folds flat when you're not eating. The highest-impact dining fix for tight floor plans.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Studio essential</span><h4>Wall-mounted drop-leaf table</h4><p>Folds flat when you're not eating. The highest-impact dining fix for tight floor plans.</p><a class="btn" href="AMZ:wall mounted drop leaf table" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best storage bed</span><h4>Platform bed with under-drawers</h4><p>Replaces a dresser and keeps the floor clear underneath. Look for four+ drawers.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Best storage bed</span><h4>Platform bed with under-drawers</h4><p>Replaces a dresser and keeps the floor clear underneath. Look for four+ drawers.</p><a class="btn" href="AMZ:platform bed frame with storage drawers" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Buy for the job you actually do most — if you host, prioritize flexible seating and tables; if you're short on closet space, start with a storage bed. One well-chosen multi-tasker beats three single-use pieces every time.

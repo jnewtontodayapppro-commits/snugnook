@@ -64,10 +64,10 @@ Rental lighting is usually an afterthought. Fix it without an electrician:
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Biggest transformation</span><h4>Peel-and-stick wallpaper (accent roll)</h4><p>One accent wall changes a whole room and comes off cleanly. Test a small patch on your wall's paint first.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Biggest transformation</span><h4>Peel-and-stick wallpaper (accent roll)</h4><p>One accent wall changes a whole room and comes off cleanly. Test a small patch on your wall's paint first.</p><a class="btn" href="AMZ:peel and stick wallpaper" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Instant mood fix</span><h4>Plug-in pendant light</h4><p>Real overhead lighting with no wiring and no ceiling box — just an adhesive hook and an outlet.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Instant mood fix</span><h4>Plug-in pendant light</h4><p>Real overhead lighting with no wiring and no ceiling box — just an adhesive hook and an outlet.</p><a class="btn" href="AMZ:plug in pendant light" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Deposit saver</span><h4>Damage-free hanging strip variety pack</h4><p>Build a gallery wall, hang hooks, and mount light decor without a single hole.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Deposit saver</span><h4>Damage-free hanging strip variety pack</h4><p>Build a gallery wall, hang hooks, and mount light decor without a single hole.</p><a class="btn" href="AMZ:command picture hanging strips" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 One caution: "damage-free" still depends on your specific paint and surface. Always test adhesives on a hidden patch first, and remove them slowly and straight-down to protect the wall. Do that, and your deposit comes home with you.

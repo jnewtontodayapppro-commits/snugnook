@@ -48,10 +48,10 @@ For under-sink chaos, a small two-tier expandable shelf works around the pipes t
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Biggest counter win</span><h4>Over-the-sink roll-up drying rack</h4><p>Reclaims your dish rack's footprint instantly and rolls away when dry. The best few dollars a tiny kitchen can spend.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Biggest counter win</span><h4>Over-the-sink roll-up drying rack</h4><p>Reclaims your dish rack's footprint instantly and rolls away when dry. The best few dollars a tiny kitchen can spend.</p><a class="btn" href="AMZ:over the sink roll up dish drying rack" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Most versatile</span><h4>Slim rolling storage cart</h4><p>Fits the dead gap beside your fridge or counter and adds three tiers of pull-out storage.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Most versatile</span><h4>Slim rolling storage cart</h4><p>Fits the dead gap beside your fridge or counter and adds three tiers of pull-out storage.</p><a class="btn" href="AMZ:slim rolling storage cart kitchen" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Cabinet fixer</span><h4>Pull-out under-shelf drawers (set)</h4><p>Clip under existing shelves to reach the wasted back half of every cabinet.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Cabinet fixer</span><h4>Pull-out under-shelf drawers (set)</h4><p>Clip under existing shelves to reach the wasted back half of every cabinet.</p><a class="btn" href="AMZ:pull out cabinet organizer under shelf" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Work in this order — counters, walls, doors, then cabinet interiors — and stop when the kitchen finally *functions*. You'll usually get there long before you run out of ideas.

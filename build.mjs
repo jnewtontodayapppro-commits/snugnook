@@ -23,6 +23,15 @@ const writeFile = (rel, html) => {
 const fmtDate = (d) =>
   new Date(d + "T00:00:00Z").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
+/* ---------- affiliate links ---------- */
+// Builds an Amazon affiliate link from a search term. Uses site.amazonTag when
+// set (monetized); until then the link still works, just untagged. Swap the tag
+// once in config.mjs and every button across every article becomes monetized.
+function amazonLink(term) {
+  const base = `https://www.amazon.com/s?k=${encodeURIComponent(term.trim())}`;
+  return site.amazonTag ? `${base}&tag=${encodeURIComponent(site.amazonTag)}` : base;
+}
+
 /* ---------- load content ---------- */
 function loadPosts() {
   if (!fs.existsSync(CONTENT)) return [];
@@ -33,10 +42,12 @@ function loadPosts() {
       const raw = fs.readFileSync(path.join(CONTENT, f), "utf8");
       const { data, content } = matter(raw);
       const slug = data.slug || f.replace(/\.md$/, "");
-      // Convert "## Heading {#id}" into real heading anchors for the TOC links.
+      // Convert "## Heading {#id}" into real heading anchors for the TOC links,
+      // then turn AMZ:search-term links into tagged Amazon affiliate links.
       const body = marked
         .parse(content)
-        .replace(/<h([2-6])>([^<]*?)\s*\{#([\w-]+)\}<\/h\1>/g, '<h$1 id="$3">$2</h$1>');
+        .replace(/<h([2-6])>([^<]*?)\s*\{#([\w-]+)\}<\/h\1>/g, '<h$1 id="$3">$2</h$1>')
+        .replace(/href="AMZ:([^"]+)"/g, (_m, term) => `href="${amazonLink(term)}" target="_blank" rel="nofollow sponsored"`);
       const words = content.split(/\s+/).filter(Boolean).length;
       return {
         ...data,

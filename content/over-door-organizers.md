@@ -41,10 +41,10 @@ In a rental bathroom with no cabinet, a clear-pocket organizer on the back of th
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Most versatile</span><h4>Clear-pocket over-the-door organizer</h4><p>The do-everything pick: shoes, toiletries, craft supplies, or pantry packets. Clear pockets mean you actually find what you stored.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Most versatile</span><h4>Clear-pocket over-the-door organizer</h4><p>The do-everything pick: shoes, toiletries, craft supplies, or pantry packets. Clear pockets mean you actually find what you stored.</p><a class="btn" href="AMZ:over the door clear pocket organizer" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best for pantry</span><h4>Adjustable wire basket door rack</h4><p>Six adjustable baskets for cans, boxes, and spices on the back of a pantry or cabinet door.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Best for pantry</span><h4>Adjustable wire basket door rack</h4><p>Six adjustable baskets for cans, boxes, and spices on the back of a pantry or cabinet door.</p><a class="btn" href="AMZ:over the door pantry basket organizer" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best no-slip fit</span><h4>Over-the-door rack with adjustable brackets</h4><p>Fits thicker or non-standard doors and keeps the organizer from rattling every time the door moves.</p><a class="btn" href="#" rel="nofollow sponsored">Check price →</a></div>
+<div class="pick"><span class="tag">Best no-slip fit</span><h4>Over-the-door rack with adjustable brackets</h4><p>Fits thicker or non-standard doors and keeps the organizer from rattling every time the door moves.</p><a class="btn" href="AMZ:over the door organizer adjustable hooks" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Start with the door you open most — usually the pantry or the bedroom closet — and you'll free up a surprising amount of shelf and floor space from a single afternoon's effort.
