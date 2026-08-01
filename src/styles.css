@@ -90,15 +90,15 @@ img { max-width: 100%; height: auto; display: block; }
 
 .disclosure { font-size: 13px; color: #8a847b; background: #f7f4ef; border: 1px dashed var(--line); border-radius: 8px; padding: 10px 14px; margin: 0 0 24px; }
 
-/* Article hero band (category-colored, matches pin style) */
-.article-hero { background: linear-gradient(160deg, var(--a1), var(--a2)); color: #fff; padding: 26px 0 92px; text-align: center; }
-.article-hero .breadcrumb { color: rgba(255,255,255,.72); margin: 0 0 20px; text-align: left; }
-.article-hero .breadcrumb a { color: rgba(255,255,255,.9); }
-.article-hero .ah-emoji { width: 92px; height: 92px; margin: 6px auto 16px; border-radius: 50%; background: rgba(255,255,255,.15); border: 2px solid rgba(255,255,255,.3); display: flex; align-items: center; justify-content: center; font-size: 46px; }
-.article-hero .ah-kicker { display: inline-block; font-size: 14px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,.85); margin-bottom: 10px; }
-.article-hero h1 { font-family: var(--serif); font-weight: 700; font-size: clamp(30px, 4.5vw, 46px); line-height: 1.12; color: #fff; letter-spacing: -.5px; max-width: 760px; margin: 0 auto; }
-.article-hero .ah-byline { color: rgba(255,255,255,.78); font-size: 14px; margin-top: 16px; }
-.article .article, article.article { position: relative; z-index: 2; margin-top: -60px; }
+/* Editorial article header — clean, magazine-style, no gimmicks */
+.article .breadcrumb { margin: 0 0 24px; }
+.article-head { margin: 0 0 30px; padding-bottom: 26px; border-bottom: 1px solid var(--line); }
+.article-head .eyebrow { display: inline-block; font-size: 13px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--accent); margin-bottom: 16px; }
+.article-head .eyebrow a { color: inherit; }
+.article-head .eyebrow a:hover { text-decoration: underline; }
+.article-head h1 { font-family: var(--serif); font-weight: 700; font-size: clamp(32px, 5vw, 52px); line-height: 1.08; letter-spacing: -1px; margin: 0; color: var(--ink); }
+.article-head .standfirst { font-size: 21px; line-height: 1.5; color: var(--ink-soft); margin: 18px 0 0; }
+.article-head .byline { color: #8a847b; font-size: 14px; margin-top: 20px; }
 
 /* Product-pick cards — a touch more premium */
 .pick { transition: box-shadow .15s ease, transform .15s ease; }

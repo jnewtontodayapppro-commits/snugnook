@@ -187,17 +187,15 @@ function articlePage(p, posts) {
   return (
     head({ title: `${p.title} | ${site.name}`, description: p.excerpt, url: p.url, type: "article", jsonld }) +
     header() +
-    `<section class="article-hero" style="--a1:${(CAT_ACCENT[p.category] || CAT_ACCENT.decor)[0]};--a2:${(CAT_ACCENT[p.category] || CAT_ACCENT.decor)[1]}">
-      <div class="wrap">
-        <nav class="breadcrumb"><a href="/">Home</a> › <a href="/category/${p.category}/">${esc(cat)}</a></nav>
-        <div class="ah-emoji">${p.emoji || "🏠"}</div>
-        <span class="ah-kicker">${esc(cat)}</span>
+    `<main class="wrap">
+    <article class="article" style="--accent:${(CAT_ACCENT[p.category] || CAT_ACCENT.decor)[0]}">
+      <nav class="breadcrumb"><a href="/">Home</a> › <a href="/category/${p.category}/">${esc(cat)}</a></nav>
+      <header class="article-head">
+        <span class="eyebrow"><a href="/category/${p.category}/">${esc(cat)}</a></span>
         <h1>${esc(p.title)}</h1>
-        <div class="ah-byline">By ${esc(site.author)} · Updated ${fmtDate(p.updated || p.date)} · ${p.readTime} min read</div>
-      </div>
-    </section>
-    <main class="wrap">
-    <article class="article">
+        <p class="standfirst">${esc(p.excerpt)}</p>
+        <div class="byline">By ${esc(site.author)} · Updated ${fmtDate(p.updated || p.date)} · ${p.readTime} min read</div>
+      </header>
       <p class="disclosure">As an Amazon Associate, SnugNook earns from qualifying purchases. When you buy through links on this page, we may earn a commission — at no extra cost to you. We only recommend items we believe earn their place in a small space.</p>
       ${p.body}
     </article>
