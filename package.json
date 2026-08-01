@@ -1,14 +1,15 @@
 {
   "name": "snugnook",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "SnugNook — big ideas for small spaces. Static content site.",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build.mjs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
   "dependencies": {
     "gray-matter": "^4.0.3",
     "marked": "^18.0.7"
