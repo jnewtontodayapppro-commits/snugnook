@@ -29,7 +29,7 @@ The fastest, cheapest win is the one people skip: swap bulky plastic and wire ha
 
 ## Double your hanging space {#double}
 
-Look at your closet: below the short-hanging shirts is a tall column of empty air. A hanging rod extender (or a second tension rod) drops a whole second tier of hanging space into that dead zone — instantly doubling capacity for shirts, skirts, and folded pants. No tools, no holes, and it lifts out when you move. If most of what you own is short items rather than long dresses or coats, this is the highest-leverage change in the entire closet.
+Look at your closet: below the short-hanging shirts is a tall column of empty air. A hanging rod extender (or a second tension rod) drops a whole second tier of hanging space into that dead zone — instantly doubling capacity for shirts, skirts, and folded pants. No tools, no holes, and it lifts out when you move. If most of what you own is short items rather than long dresses or coats, this is the single biggest change you can make in the whole closet.
 
 ## Tame the top shelf {#shelf}
 
