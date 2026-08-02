@@ -23,6 +23,9 @@ const PINS = {
   "small-bathroom-storage-ideas-renters":        { kicker: "RENTER-FRIENDLY",    emoji: "🚿", head: "Small Bathroom Storage Ideas (No Drilling)", sub: "Add shelves and order without a single hole.", accent: "clay" },
   "home-office-tiny-apartment":                  { kicker: "WORK FROM HOME",     emoji: "💻", head: "Set Up a Home Office in a Tiny Apartment", sub: "A real workspace that folds away after 5.", accent: "teal" },
   "best-room-dividers-studio-apartments":        { kicker: "STUDIO LIVING",      emoji: "🚪", head: "The Best Room Dividers for Studio Apartments", sub: "Zone one room without building a single wall.", accent: "plum" },
+  "space-saving-dining-tables-small-apartments": { kicker: "SMALL-SPACE DINING",  emoji: "🍽️", head: "Dining Tables That Disappear When You're Done", sub: "Drop-leaf, extendable & fold-down picks for tiny apartments.", accent: "clay" },
+  "diy-storage-bed-ideas-small-bedrooms":        { kicker: "DIY STORAGE",         emoji: "🛏️", head: "Build a Bed That Hides All Your Stuff", sub: "DIY storage bed ideas that replace a whole dresser.", accent: "teal" },
+  "small-apartment-essentials":                  { kicker: "TINY APARTMENT",      num: "15", head: "Small Apartment Essentials That Earn Their Space", sub: "The double-duty buys that actually make a tight place work.", accent: "plum" },
 };
 
 const ACCENTS = {
