@@ -10,9 +10,9 @@ hero: "/images/small-bathroom-storage.jpg"
 heroAlt: "An over-the-toilet wooden shelf holding folded towels and a plant in a small bathroom"
 ---
 
-Small rental bathrooms are their own special challenge: often just a sink, a toilet, and nowhere to put anything, with a lease that forbids drilling into the tile. The fix is a stack of damage-free pieces that add real storage to the walls, the door, and the dead space over the toilet, then peel or lift away without a trace when you leave. None of it will make the room bigger, but it will make what you have actually usable.
+Small rental bathrooms are their own puzzle: a sink, a toilet, nowhere to put anything, and a lease that forbids drilling the tile. The fix is a stack of damage-free pieces that borrow the walls, the door, and the dead space over the toilet, then lift away without a trace. None of it makes the room bigger. It makes what you have usable.
 
-**The short version:** start over the toilet. A freestanding rack there turns the biggest patch of unused wall into two or three shelves without touching it. Add a hanging shower caddy and an adhesive or tension-rod shelf, and a cabinet-less bathroom can hold your everyday toiletries and towels without a single hole.
+**The short version:** start over the toilet, where a freestanding rack turns the biggest patch of unused wall into two or three shelves without touching it. Add a hanging shower caddy and an adhesive or tension-rod shelf, and a cabinet-less bathroom holds your everyday toiletries and towels without a single hole.
 
 <div class="toc"><strong>In this guide</strong>
 <ol>
@@ -27,37 +27,37 @@ Small rental bathrooms are their own special challenge: often just a sink, a toi
 
 ## Claim the space over the toilet {#overtoilet}
 
-The wall above the toilet is usually the single biggest chunk of unused space in a small bathroom, and it's begging for storage. A freestanding over-the-toilet rack, the kind that straddles the tank on its own legs, turns it into two or three shelves for towels, baskets, and supplies, with no wall anchors required. It's almost always the first thing to add, because it creates the most storage for the least effort. One thing to check before you buy: measure the height of your tank and any window or fixture above it, since the cheaper racks can be tippy, so keep the heavy stuff on the lower shelves.
+The wall above the toilet is the biggest stretch of dead space in most small bathrooms. A freestanding rack that straddles the tank on its own legs turns it into two or three shelves for towels, baskets, and supplies, no anchors required. Add it first: the most storage for the least effort. Before you order, measure the tank height plus any window or fixture above it so the frame clears them, and keep the heavy things on the lower shelves, since the budget racks can get tippy.
 
 ## Add shelves without holes {#walls}
 
-For more wall storage, reach for adhesive-mounted shelves and baskets rated for bathroom humidity, or a tension-rod corner shelf wedged into the shower corner. Both add capacity with no drilling. Keep the heavier items low and the light stuff high so nothing's top-heavy, and give strong adhesives a full day to cure before you load them. Be realistic about weight, though: adhesive shelves are for a bottle or two and a folded washcloth, not a stack of hardcovers. (These damage-free tricks work all over a rental, so see our full list of [renter-friendly upgrades](/guides/renter-friendly-upgrades-deposit-safe/).)
+For more wall storage, reach for adhesive shelves and baskets rated for bathroom humidity, or a tension-rod corner shelf wedged into the shower corner. Give a strong adhesive a full day to cure before you load it, and be honest about weight: it holds a bottle or two and a folded washcloth, not a stack of hardcovers, so send the heavy stuff to the freestanding rack. (These damage-free tricks work all over a rental, so see our full list of [renter-friendly upgrades](/guides/renter-friendly-upgrades-deposit-safe/).)
 
 ## Fix the shower chaos {#shower}
 
-Bottles crowding the tub edge are the classic small-bathroom mess. A hanging shower caddy that loops over the showerhead gets everything up, off surfaces, and draining properly, and it comes down in seconds when you move. Skip the suction-cup caddies for anything heavy; they tend to let go at 6 a.m. and take your shampoo with them. A tension-rod corner pole is the sturdier option if you've got a lot of bottles to store.
+Bottles crowding the tub edge are the classic small-bathroom mess. A caddy that loops over the showerhead gets everything up, off surfaces, and draining, and comes down in seconds when you move. Skip suction-cup caddies for anything with weight; they let go at 6 a.m. and take your shampoo with them. If you've got a lot of bottles, a floor-to-ceiling tension pole in the corner is the sturdier answer.
 
 ## Rescue a tiny counter {#counter}
 
-If you've got a sliver of counter, protect it. A small under-sink expandable organizer works around the pipes to reclaim the cabinet or floor space below, which is often the most wasted spot in the room. And a compact countertop riser adds a second level to a narrow counter, so bottles stack up instead of sprawling sideways. Every thing you get off the flat surface makes the whole room feel calmer.
+Under the sink is usually the most wasted space in the room: an expandable organizer works around the pipes to reclaim the cabinet or floor below. Up top, a compact riser adds a second level so bottles stack instead of sprawling sideways. Everything you lift off the flat surface makes the whole room read calmer.
 
 ## What to avoid {#mistakes}
 
-Two traps. **Suction cups holding anything heavy**, since humidity and weight defeat them and they fail at the worst moment. And **non-rustproof metal in a steamy room**, because a cheap wire rack can streak rust down your wall or tub within a season, which is exactly the kind of stain that costs a deposit. Choose rustproof, humidity-rated materials, and lean on tension rods and reinforced adhesive over suction for anything with weight.
+The expensive mistake is non-rustproof metal in a steamy room. A cheap wire rack can streak rust down your tub or wall within a season, and that stain is exactly the kind that costs a deposit, so buy rustproof, humidity-rated materials from the start. The other is trusting suction cups with any real weight; humidity and gravity defeat them, so lean on tension rods and reinforced adhesive instead.
 
 ## Common questions {#faq}
 
-### How do I add storage to a small bathroom with no cabinet?
+### Where do towels go with no linen closet?
 
-Go vertical and use freestanding pieces. An over-the-toilet rack claims the biggest unused wall, adhesive or tension-rod shelves add a bit more, and a hanging shower caddy clears the tub edge. None of it needs drilling, so it all works in a rental and comes out clean.
+Roll them. Rolled towels stand in a basket on the rack's lower shelf or a slim floor bin far more compactly than folded stacks, and a hook or a leaning towel ladder holds the one or two in use. Keep a small rotation out and store spares elsewhere, since a bathroom this size can't be your linen closet too.
 
-### What's the best storage for a rental bathroom?
+### Will adhesive strips peel the paint when I move out?
 
-An over-the-toilet freestanding rack, first, because it creates the most storage for zero installation. Pair it with a rustproof hanging shower caddy and an under-sink organizer, and you've covered towels, toiletries, and shower supplies without touching the walls.
+The ones rated as damage-free release cleanly if you pull the tab slowly, straight down along the wall, rather than yanking outward. They're happiest on tile and sealed, glossy paint; be cautious on flat or fresh paint and skip delicate wallpaper. If a strip is stubborn, a hairdryer softens the glue.
 
-### Do adhesive bathroom shelves fall down?
+### Do over-the-toilet racks tip over?
 
-They can, if you rush them or overload them. Choose shelves rated for bathroom humidity, clean and dry the surface before mounting, and let the adhesive cure a full day before loading. Keep the weight modest and low, and they'll usually hold, then release cleanly when you move out.
+A top-heavy one can, especially if it gets bumped or the tank is narrow. Load the heavy towels and baskets on the lower shelves and keep only light decor up high. Many models include an anti-tip strap that anchors to the wall behind the tank, worth using if you have kids or pets.
 
 ## Our product picks {#picks}
 
@@ -67,4 +67,4 @@ They can, if you rush them or overload them. Choose shelves rated for bathroom h
 
 <div class="pick"><span class="tag">Under-sink fix</span><h4>Expandable under-sink organizer</h4><p>Adjustable shelving that works around the pipes to reclaim the wasted cabinet space below the sink.</p><a class="btn" href="AMZ:under sink organizer expandable" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-Start with the over-the-toilet rack for the biggest instant gain, then work outward to the shower and counter. A small bathroom will never be huge, but it can absolutely be organized, and you can undo all of it in about ten minutes on moving day.
+Start with the over-the-toilet rack for the biggest instant gain, then work outward to the shower and counter. It'll never be a big bathroom, but it can be an organized one, and all of it comes down in ten minutes on moving day.

@@ -10,9 +10,9 @@ hero: "/images/tiny-kitchen-no-counter-space.jpg"
 heroAlt: "A tiny kitchen with an over-the-sink board and a wall rail of hanging utensils"
 ---
 
-The problem with a tiny kitchen usually isn't how much it holds. It's *access*. Counters vanish under appliances you use twice a week, the back half of every cabinet is a mystery, and the walls sit empty. Fix those three in the right order and a galley kitchen you can barely turn around in starts to function like a real one.
+The problem with a tiny kitchen usually isn't how much it holds. It's *access*. Counters vanish under appliances you use twice a week, the back half of every cabinet is a mystery, and the walls sit empty. Fix those three in the right order and a galley you can barely turn around in starts to work like a real kitchen.
 
-**To organize a tiny kitchen with no counter space, work in this order:** clear the counters of anything you don't use daily, move storage up onto the walls and pegboards, mine the inside of every cabinet door, then fix the wasted back-half of your cabinets with pull-outs and shelf risers. Counters first, because that's the space you feel every day.
+**The order that works:** clear the counters of anything you don't use daily, move storage up onto walls and pegboards, mine the inside of every cabinet door, then reclaim the wasted back-half of your cabinets with pull-outs and risers. Counters first, because that's the space you feel every day.
 
 <div class="toc"><strong>In this guide</strong>
 <ol>
@@ -27,43 +27,39 @@ The problem with a tiny kitchen usually isn't how much it holds. It's *access*. 
 
 ## Clear the counters first {#counters}
 
-Counter space is the most valuable real estate you own, so the rule is simple: nothing lives on the counter unless you use it every day. The stand mixer, the blender, the air fryer you love but run twice a week, all of it moves to a cabinet or a shelf. You lose ten seconds pulling it out. You gain a work surface you use constantly.
+Counter space is the most valuable real estate you own, so the rule is simple: nothing lives on it unless you use it every day. The stand mixer, the blender, the twice-a-week air fryer, all of it moves to a cabinet or a shelf. You lose ten seconds pulling it out and gain a work surface you use constantly.
 
-The single biggest counter win costs a few dollars: get your dish rack off the counter. An over-the-sink roll-up drying rack sits across the sink while you use it and rolls away when the dishes are dry, handing you back a whole zone of counter. Then move the knives to a wall-mounted magnetic strip and the paper towels to a wall or under-cabinet holder. Every item you lift off the counter is a small daily win.
+The biggest single win costs a few dollars. An over-the-sink roll-up drying rack sits across the sink while you wash and rolls away when the dishes dry, handing back the whole zone a dish rack used to squat on. From there, knives go to a wall-mounted magnetic strip and paper towels to an under-cabinet holder.
 
 ## Move it up the walls {#vertical}
 
-Empty wall is unused storage, and a tiny kitchen usually has more of it than you think.
-
-A **pegboard** turns a bare wall into customizable hanging storage: pots, pans, utensils, mugs, all visible and grabbable. A **rail system** with S-hooks does the same for utensils and cups without committing to a full board. And the piece that surprises people: a **slim rolling cart** that slides into the 6-to-9-inch gap beside the fridge or the end of a counter, pulling three tiers of storage out of a slot you were ignoring. Floating shelves above the counter hold everyday dishes and can free up a whole cabinet. Just remember the wall options mean drilling, so check with your landlord if you rent, or lean on tension rods and adhesive mounts instead.
+Empty wall is unused storage, and a tiny kitchen has more of it than you think. A **pegboard** turns a bare wall into hanging storage for pots, pans, utensils, and mugs, all visible and grabbable; a **rail with S-hooks** does a lighter version without committing to a full board. **Floating shelves** above the counter hold everyday dishes and can free up a whole cabinet. The piece that surprises people is a **slim rolling cart** that slides into the 6-to-9-inch gap beside the fridge, pulling three tiers of storage out of a slot you were ignoring. Wall mounting means drilling, so if you rent, clear it with your landlord or lean on tension rods and adhesive mounts instead.
 
 ## Mine the cabinet doors {#doors}
 
-The inside of every cabinet door is prime, forgotten storage. Over-the-door racks and adhesive bins turn each one into a home for pot lids, cutting boards, foil and wrap, sponges, and cleaning spray. On a cabinet with a lot of dead door space, that can add close to another shelf's worth of room without touching the shelves you have. (The same trick works all over a small home. See our guide to [the best over-the-door organizers](/guides/best-over-the-door-organizers-small-apartments/).) Just check the door still shuts once it's loaded.
+The inside of every cabinet door is prime, forgotten storage. Over-the-door racks and adhesive bins give pot lids, cutting boards, foil and wrap, sponges, and cleaning spray a home, and on a door with real dead space that adds close to another shelf's worth of room. Just check the door still shuts once it's loaded. (The trick works all over a small home. See our guide to [the best over-the-door organizers](/guides/best-over-the-door-organizers-small-apartments/).)
 
 ## Fix the cabinet black holes {#cabinets}
 
-Deep cabinets waste their back half because you can't reach it. Two cheap fixes recover most of it.
-
-**Pull-out drawers and sliding bins** clip under or onto a shelf and bring the back of the cabinet to you, so there's no more kneeling and reaching past the front row. **Shelf risers** split a tall shelf into two usable layers so plates and cans stack in two reachable rows instead of one deep, forgotten pile. In a corner cabinet, a **lazy Susan** turns dead space into spin-to-reach storage. And for the chaos under the sink, a two-tier expandable shelf works around the pipes to reclaim the space most people write off entirely.
+Deep cabinets waste their back half because you can't reach it. **Pull-out drawers and sliding bins** clip under a shelf and bring that back row to you, so there's no more kneeling and reaching past the front. **Shelf risers** split a tall shelf into two reachable layers, so plates and cans stop burying each other. In a corner cabinet, a **lazy Susan** spins dead space into reach. And under the sink, a **two-tier expandable shelf** works around the pipes to reclaim the spot most people write off entirely.
 
 ## What quietly wastes your space {#mistakes}
 
-Three habits that undo the work. **Leaving rarely-used appliances on the counter** because there's nowhere else. There is; it's a cabinet. **Deep stacks you can't see into**, where the back row expires because you forgot it existed. Risers and pull-outs fix this. And **buying more storage bins before decluttering.** Half the problem in a tiny kitchen is owning three spatulas and two colanders. Thin the herd first, then organize what's left.
+Two habits undo the work. **Buying more storage bins before decluttering,** when half the problem in a tiny kitchen is owning three spatulas and two colanders: thin the herd first, then organize what's left. And **leaving a rarely-used appliance out** because there's nowhere else, when there is, it's the cabinet you just freed up.
 
 ## Common questions {#faq}
 
 ### How do I get more counter space in a small kitchen?
 
-Take things *off* the counter rather than trying to add surface. Get the dish rack off with an over-the-sink roll-up model, move knives to a wall magnet, and store every appliance you don't use daily in a cabinet. If you need more work surface for cooking, a slim rolling cart gives you a movable one you can tuck away after.
+Take things *off* the counter rather than trying to add surface. Past clearing the dish rack and the appliances, remember the sink is surface too: a board that sits across it turns the basin into a cutting station, and a slim rolling cart gives you a movable counter you tuck away after.
 
 ### Where do you put things in a kitchen with no cabinets?
 
-Go vertical and use doors. A pegboard or rail system on the wall holds pots, utensils, and mugs. Over-the-door racks hold lids and wraps. A slim rolling cart and floating shelves add storage without a single built-in. Renters can get a lot of this with no drilling using tension rods and adhesive mounts.
+Go vertical and use doors. A pegboard or rail holds pots, utensils, and mugs; over-the-door racks hold lids and wraps; floating shelves and a rolling cart take the rest. Renters can get most of it with no drilling using tension rods and adhesive mounts, just buy for the weight and know kitchen humidity loosens cheap adhesive over time.
 
 ### Are shelf risers worth it?
 
-Yes, they're one of the cheapest, highest-impact fixes in a small kitchen. By splitting a tall, half-empty shelf into two usable layers, a riser gets a lot more out of that shelf and makes the back reachable. Buy them before you buy any new bins.
+They're one of the cheapest, highest-impact fixes in a small kitchen, and worth buying before any new bins. One thing to check first: measure the shelf's internal height, because a riser that leaves less than a plate's clearance beneath it just relocates the problem.
 
 ## Our product picks {#picks}
 
@@ -73,4 +69,4 @@ Yes, they're one of the cheapest, highest-impact fixes in a small kitchen. By sp
 
 <div class="pick"><span class="tag">Cabinet fixer</span><h4>Pull-out under-shelf drawers (set)</h4><p>Clip under existing shelves to reach the wasted back half of every cabinet. Pair with shelf risers for the full effect.</p><a class="btn" href="AMZ:pull out cabinet organizer under shelf" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-Work in this order, counters, walls, doors, then cabinet interiors, and stop when the kitchen finally *works*. You'll usually get there long before you run out of ideas, and long before you run out of wall.
+Work counters, walls, doors, then cabinet interiors, and stop when the kitchen finally *works*. You'll usually get there long before you run out of wall.
