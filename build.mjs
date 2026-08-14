@@ -163,7 +163,15 @@ function renderPills(active) {
 const ICON_MAIL = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>`;
 const subscribeBar = () => `<section class="subscribe-bar" id="subscribe">
   <div class="sb-label">${ICON_MAIL}<span>Get one good small-space idea in your inbox each week.</span></div>
-  <form class="sb-form" onsubmit="return false;"><input type="email" placeholder="Your email address" aria-label="Email"><button class="btn" type="submit">Subscribe</button></form>
+  <script async src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+  <form action="https://app.kit.com/forms/9802030/subscriptions" method="post" class="sb-form seva-form formkit-form" data-sv-form="9802030" data-uid="57f66802bc" data-format="inline" data-version="5" style="flex-wrap:wrap">
+    <div data-element="fields" style="display:flex;gap:10px;flex:1 1 100%">
+      <input class="formkit-input" type="email" name="email_address" placeholder="Your email address" aria-label="Email" required>
+      <button data-element="submit" class="btn" type="submit">Subscribe</button>
+    </div>
+    <div data-element="success" style="display:none;flex-basis:100%;margin-top:9px;color:var(--accent);font-weight:600;font-size:14px">Thanks — please check your inbox to confirm your subscription.</div>
+    <div data-element="errors" style="display:none;flex-basis:100%;margin-top:9px;color:#d9895f;font-weight:600;font-size:14px"></div>
+  </form>
 </section>`;
 
 function homePage(posts) {
