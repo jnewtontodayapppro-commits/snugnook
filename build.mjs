@@ -82,7 +82,7 @@ function loadPosts() {
 function head({ title, description, url, image, type = "website", jsonld }) {
   const canonical = site.url + url;
   return `<!doctype html><html lang="en"><head>
-<script>(function(){try{var t=localStorage.getItem('snug-theme');document.documentElement.setAttribute('data-theme',t==='light'?'light':'dark');}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
+<script>(function(){try{var t=localStorage.getItem('snug-theme');document.documentElement.setAttribute('data-theme',t==='dark'?'dark':'light');}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
