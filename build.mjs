@@ -82,6 +82,7 @@ function loadPosts() {
 function head({ title, description, url, image, type = "website", jsonld }) {
   const canonical = site.url + url;
   return `<!doctype html><html lang="en"><head>
+<script>(function(){try{var t=localStorage.getItem('snug-theme');document.documentElement.setAttribute('data-theme',t==='light'?'light':'dark');}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
@@ -92,6 +93,9 @@ function head({ title, description, url, image, type = "website", jsonld }) {
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${canonical}">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,600&family=Inter:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="/styles.css">
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/rss.xml">
 <link rel="icon" href="/favicon.svg">
@@ -102,16 +106,25 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script
 </head><body>`;
 }
 
+const ICON_SEARCH = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>`;
+const ICON_THEME = `<svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8Z"/></svg><svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>`;
+
 const header = () => `<header class="site-header"><div class="wrap">
 <a class="brand" href="/">Snug<span>Nook</span></a>
-<button class="menu-toggle" aria-label="Menu" onclick="document.getElementById('nav').classList.toggle('open')">Menu</button>
 <nav class="nav" id="nav">${site.nav.map((n) => `<a href="${n.href}">${n.label}</a>`).join("")}</nav>
-</div></header>`;
+<div class="head-actions">
+<a class="icon-btn" href="/guides/" aria-label="Browse all guides">${ICON_SEARCH}</a>
+<button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark mode" onclick="__snugTheme()">${ICON_THEME}</button>
+<a class="btn btn-sm" href="/#subscribe">Subscribe</a>
+<button class="menu-toggle icon-btn" aria-label="Menu" onclick="document.getElementById('nav').classList.toggle('open')">☰</button>
+</div>
+</div></header>
+<script>function __snugTheme(){try{var h=document.documentElement,t=h.getAttribute('data-theme')==='dark'?'light':'dark';h.setAttribute('data-theme',t);localStorage.setItem('snug-theme',t);}catch(e){}}</script>`;
 
 const footer = () => `<footer class="site-footer"><div class="wrap">
 <div class="cols">
-<div><div class="brand" style="color:#fff">Snug<span style="color:var(--accent)">Nook</span></div>
-<p style="max-width:280px;color:#9c958a">${esc(site.tagline)}. ${esc(site.description)}</p></div>
+<div style="max-width:300px"><div class="brand">Snug<span style="color:var(--accent)">Nook</span></div>
+<p style="margin-top:8px;opacity:.85">${esc(site.tagline)}. ${esc(site.description)}</p></div>
 <div><h4>Explore</h4><ul>${Object.entries(site.categories).map(([k, c]) => `<li><a href="/category/${k}/">${c.title}</a></li>`).join("")}</ul></div>
 <div><h4>Site</h4><ul>
 <li><a href="/about/">About</a></li>
@@ -126,15 +139,32 @@ const footer = () => `<footer class="site-footer"><div class="wrap">
 /* ---------- pages ---------- */
 function renderCard(p) {
   const cat = site.categories[p.category]?.title || p.category || "Guide";
+  const thumb = p.hero
+    ? `<img src="${p.hero}" alt="" loading="lazy">`
+    : `<span class="ph">${p.emoji || "🏠"}</span>`;
   return `<article class="card"><a href="${p.url}">
-  <div class="thumb">${p.emoji || "🏠"}</div>
+  <div class="thumb">${thumb}</div>
   <div class="body">
     <span class="cat">${esc(cat)}</span>
     <h3>${esc(p.title)}</h3>
     <p>${esc(p.excerpt || "")}</p>
-    <span class="meta">${fmtDate(p.date)} · ${p.readTime} min read</span>
+    <div class="byline"><span class="avatar"></span><span class="who">SnugNook</span><span class="sep">·</span><span>${fmtDate(p.date)}</span><span class="rt">${p.readTime} min read</span></div>
   </div></a></article>`;
 }
+
+function renderPills(active) {
+  const all = `<a class="pill${active === "all" ? " active" : ""}" href="/guides/">All</a>`;
+  const cats = Object.entries(site.categories)
+    .map(([k, c]) => `<a class="pill${active === k ? " active" : ""}" href="/category/${k}/">${esc(c.title)}</a>`)
+    .join("");
+  return `<div class="filter-pills">${all}${cats}</div>`;
+}
+
+const ICON_MAIL = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>`;
+const subscribeBar = () => `<section class="subscribe-bar" id="subscribe">
+  <div class="sb-label">${ICON_MAIL}<span>Get one good small-space idea in your inbox each week.</span></div>
+  <form class="sb-form" onsubmit="return false;"><input type="email" placeholder="Your email address" aria-label="Email"><button class="btn" type="submit">Subscribe</button></form>
+</section>`;
 
 function homePage(posts) {
   const jsonld = {
@@ -144,24 +174,30 @@ function homePage(posts) {
     url: site.url,
     description: site.description,
   };
-  const featured = posts.slice(0, 6);
+  const lead = posts.find((p) => p.hero) || posts[0];
+  const rest = posts.filter((p) => p !== lead).slice(0, 6);
+  const leadCat = lead ? (site.categories[lead.category]?.title || "Guide") : "";
+  const leadMedia = lead && lead.hero
+    ? `<img src="${lead.hero}" alt="" loading="lazy">`
+    : `<span class="ph">${(lead && lead.emoji) || "🏠"}</span>`;
+  const heroSplit = lead ? `<section class="hero-split">
+      <div class="hero-text">
+        <span class="eyebrow">New guide</span>
+        <h1><a href="${lead.url}">${esc(lead.title)}</a></h1>
+        <p>${esc(lead.excerpt || "")}</p>
+        <div class="hero-cta"><a class="btn" href="${lead.url}">Read the guide</a><a class="btn btn-outline" href="/guides/">Browse topics</a></div>
+      </div>
+      <a class="hero-media" href="${lead.url}">${leadMedia}</a>
+    </section>` : "";
   return (
     head({ title: `${site.name} — ${site.tagline}`, description: site.description, url: "/", jsonld }) +
     header() +
     `<main class="wrap">
-    <section class="hero">
-      <span class="pill">SMALL-SPACE LIVING, SOLVED</span>
-      <h1>${esc(site.tagline)}</h1>
-      <p>${esc(site.description)}</p>
-      <div class="chips">${Object.entries(site.categories).map(([k, c]) => `<a class="chip" href="/category/${k}/">${c.title}</a>`).join("")}</div>
-    </section>
-    <h2 class="section-title">Latest guides</h2>
-    <div class="grid">${featured.map(renderCard).join("")}</div>
-    <section class="cta">
-      <h2>Get the weekly SnugNook</h2>
-      <p>One email a week: a fresh small-space idea and a product worth your square footage. No clutter — promise.</p>
-      <form onsubmit="return false;"><input type="email" placeholder="you@email.com" aria-label="Email"><button class="btn" type="submit">Subscribe</button></form>
-    </section>
+    ${heroSplit}
+    ${subscribeBar()}
+    <div class="section-head"><h2>Latest guides</h2><a class="view-all" href="/guides/">View all articles →</a></div>
+    ${renderPills("all")}
+    <div class="grid">${rest.map(renderCard).join("")}</div>
     </main>` +
     footer()
   );
@@ -188,7 +224,7 @@ function articlePage(p, posts) {
     head({ title: `${p.title} | ${site.name}`, description: p.excerpt, url: p.url, type: "article", jsonld }) +
     header() +
     `<main class="wrap">
-    <article class="article" style="--accent:${(CAT_ACCENT[p.category] || CAT_ACCENT.decor)[0]}">
+    <article class="article">
       <nav class="breadcrumb"><a href="/">Home</a> › <a href="/category/${p.category}/">${esc(cat)}</a></nav>
       <header class="article-head">
         <span class="eyebrow"><a href="/category/${p.category}/">${esc(cat)}</a></span>
@@ -196,8 +232,9 @@ function articlePage(p, posts) {
         <p class="standfirst">${esc(p.excerpt)}</p>
         <div class="byline">By ${esc(site.author)} · Updated ${fmtDate(p.updated || p.date)} · ${p.readTime} min read</div>
       </header>
-      <p class="disclosure">As an Amazon Associate, SnugNook earns from qualifying purchases. When you buy through links on this page, we may earn a commission — at no extra cost to you. We only recommend items we believe earn their place in a small space.</p>
-      ${p.body}
+      ${p.hero ? `<figure class="article-hero"><img src="${p.hero}" alt="${esc(p.heroAlt || p.title)}">${p.heroCredit ? `<figcaption>${esc(p.heroCredit)}</figcaption>` : ""}</figure>` : ""}
+      <p class="disclosure">As an Amazon Associate, SnugNook earns from qualifying purchases. When you buy through links on this page, we may earn a commission, at no extra cost to you. We only recommend items we believe earn their place in a small space.</p>
+      <div class="article-body">${p.body}</div>
     </article>
     ${relBlock}
     </main>` +
@@ -205,14 +242,14 @@ function articlePage(p, posts) {
   );
 }
 
-function listPage({ title, blurb, url, posts }) {
+function listPage({ title, blurb, url, posts, active }) {
   return (
     head({ title: `${title} | ${site.name}`, description: blurb || site.description, url }) +
     header() +
     `<main class="wrap">
-    <section class="hero" style="padding:48px 0 24px">
-      <h1>${esc(title)}</h1><p>${esc(blurb || "")}</p>
-    </section>
+    <div class="section-head" style="margin:44px 0 6px"><h2 style="font-size:clamp(30px,4vw,46px)">${esc(title)}</h2></div>
+    ${blurb ? `<p style="color:var(--ink-soft);font-size:18px;margin:0 0 26px;max-width:660px">${esc(blurb)}</p>` : `<div style="height:20px"></div>`}
+    ${renderPills(active || "all")}
     <div class="grid">${posts.map(renderCard).join("")}</div>
     </main>` +
     footer()
@@ -250,7 +287,7 @@ ${posts
     .join("\n")}
 </channel></rss>`;
 }
-const favicon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#2f7d6b"/><path d="M16 34 L32 20 L48 34 V48 H38 V38 H26 V48 H16 Z" fill="#fbf9f6"/></svg>`;
+const favicon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#33625a"/><path d="M16 34 L32 20 L48 34 V48 H38 V38 H26 V48 H16 Z" fill="#f5efe4"/></svg>`;
 
 /* ---------- build ---------- */
 function build() {
@@ -260,6 +297,8 @@ function build() {
 
   // static assets
   fs.copyFileSync(path.join(__dirname, "src/styles.css"), path.join(DIST, "styles.css"));
+  const imgDir = path.join(__dirname, "images");
+  if (fs.existsSync(imgDir)) fs.cpSync(imgDir, path.join(DIST, "images"), { recursive: true });
   writeFile("favicon.svg", favicon);
   writeFile("robots.txt", `User-agent: *\nAllow: /\nSitemap: ${site.url}/sitemap.xml\n`);
 
@@ -272,7 +311,7 @@ function build() {
   // guides index
   writeFile(
     "guides/index.html",
-    listPage({ title: "All Guides", blurb: "Every SnugNook guide, newest first.", url: "/guides/", posts })
+    listPage({ title: "All Guides", blurb: "Every SnugNook guide, newest first.", url: "/guides/", posts, active: "all" })
   );
 
   // categories
@@ -280,7 +319,7 @@ function build() {
     const cp = posts.filter((p) => p.category === key);
     writeFile(
       `category/${key}/index.html`,
-      listPage({ title: c.title, blurb: c.blurb, url: `/category/${key}/`, posts: cp })
+      listPage({ title: c.title, blurb: c.blurb, url: `/category/${key}/`, posts: cp, active: key })
     );
   });
 
