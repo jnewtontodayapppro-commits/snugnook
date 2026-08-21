@@ -19,7 +19,20 @@ one before publishing.
 
 - **Pins:** 2:3 ratio. Target 1000×1500; 800×1200 is acceptable and sharp.
 - **Article heroes:** 16:9-ish landscape, ~1440×809 (≈933×525 from the browser-render path is fine).
-- Produce **2 pins per article** (different photo + accent color + headline angle) for A/B testing.
+- Produce **2+ pins per article**, and make them different **creative families** (below), not just recolors.
+
+## Creative families (rotate — don't just change the accent color)
+If every pin has the same layout with a different color, audiences develop banner blindness. Rotate the *type* of pin, all still clearly branded SnugNook:
+- **Photo-first:** full-bleed room photo + a huge 5–8 word promise. (Our current default.)
+- **List-first:** a number hook — "7 Places You're Wasting Storage" — with 3–4 short visual callouts.
+- **Mistake-first:** "5 Layout Mistakes Making Your Apartment Feel Smaller."
+- **Diagram-first:** a simple floorplan / clearance diagram with arrows, dimensions, labels (reuses the article's original-evidence asset — high performer, and it doubles as image-search + AI-citation bait).
+- **Transformation:** a before/after concept.
+Test at least two different families per article. For your best existing ~30 URLs, making 2–3 fresh creatives each is higher-leverage than writing new articles.
+
+## CTA + description specifics
+- **Make the pin CTA specific**, not "Read more": "See what fits", "Get the measurements", "Find the renter-safe options", "See all 9 ideas", "See the layouts." The reader should know exactly what they'll get on click.
+- **Descriptions:** write naturally keyword-rich sentences (Pinterest uses them to judge relevance; they're usually not shown in-feed). Put the important keywords in the **pin title, description, board name, and topic tags**. Hashtags are low-value — a few relevant ones are fine, but don't stuff a row of them unless your own analytics show they help.
 
 ## Photo sourcing
 
