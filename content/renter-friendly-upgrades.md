@@ -82,10 +82,10 @@ Layer light you can plug in or stick on: a warm floor lamp, a plug-in pendant on
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Biggest transformation</span><h4>Peel-and-stick wallpaper (accent roll)</h4><p>One accent wall changes a whole room, and on good paint it comes off cleanly. Test a hidden patch on your own wall first. That's the step that protects your deposit.</p><a class="btn" href="AMZ:peel and stick wallpaper" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Biggest transformation</span><h4>Peel-and-Stick Wallpaper (Accent Roll)</h4><p>One accent wall changes a whole room, and on good paint it comes off cleanly. Test a hidden patch on your own wall first. That's the step that protects your deposit.</p><a class="btn" href="AMZP:B0DSKC6CX3" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Instant mood fix</span><h4>Plug-in pendant light</h4><p>Real overhead lighting with no wiring and no ceiling box. Just an adhesive hook and an outlet. About the fastest "this doesn't feel like a rental" upgrade there is.</p><a class="btn" href="AMZ:plug in pendant light" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Instant mood fix</span><h4>Plug-In Pendant Light Cord (16 ft)</h4><p>Real overhead lighting with no wiring and no ceiling box. Just an adhesive hook and an outlet. About the fastest "this doesn't feel like a rental" upgrade there is.</p><a class="btn" href="AMZP:B0CSKRG5BJ" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Deposit saver</span><h4>Damage-free hanging strip variety pack</h4><p>Build a gallery wall and hang light decor without a single hole. Remove them slowly by the release tab and the wall stays clean.</p><a class="btn" href="AMZ:command picture hanging strips" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Deposit saver</span><h4>Command Picture-Hanging Strips (Variety Pack)</h4><p>Build a gallery wall and hang light decor without a single hole. Remove them slowly by the release tab and the wall stays clean.</p><a class="btn" href="AMZP:B07H54NZ3K" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Start with lighting. It's the change you'll feel the same evening. Keep your test-patch discipline, and the rest comes home with you when the lease ends.

@@ -70,10 +70,10 @@ Round, usually. No corners to bump means it eases traffic and seats the same num
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Best everyday small table</span><h4>Drop-leaf dining table</h4><p>Folds to a slim console against the wall, opens to a real four-seater in seconds. The most practical pick if two people eat daily and guests come occasionally.</p><a class="btn" href="AMZ:drop leaf dining table small space" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best everyday small table</span><h4>36" Round Drop-Leaf Dining Table</h4><p>Folds to a slim console against the wall, opens to a real four-seater in seconds. The most practical pick if two people eat daily and guests come occasionally.</p><a class="btn" href="AMZP:B0GH2HZL1R" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best for hosting</span><h4>Extendable console dining table</h4><p>Lives as a foot-deep hallway console, unfolds to seat six or eight. The most capacity per inch of everyday footprint. It costs more and has moving parts, so buy a sturdy one.</p><a class="btn" href="AMZ:extendable console dining table" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best for hosting</span><h4>Mobili Fiver Easy Extendable Console Table</h4><p>Lives as a foot-deep hallway console, unfolds to seat six or eight. The most capacity per inch of everyday footprint. It costs more and has moving parts, so buy a sturdy one.</p><a class="btn" href="AMZP:B0824728XB" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best for a true studio</span><h4>Wall-mounted fold-down table</h4><p>Lifts up to eat, folds flush to the wall when you're done, clearing the floor completely. Pair with folding chairs. Anchors into studs, so it's for a place you can drill.</p><a class="btn" href="AMZ:wall mounted drop leaf folding table" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best for a true studio</span><h4>HOOBRO Wall-Mounted Fold-Down Table</h4><p>Lifts up to eat, folds flush to the wall when you're done, clearing the floor completely. Pair with folding chairs. Anchors into studs, so it's for a place you can drill.</p><a class="btn" href="AMZP:B0D9Q3VDTX" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Match the table to how you really eat, then measure both footprints before you buy. The right one gives you a proper table when you want it and your whole room back when you don't.

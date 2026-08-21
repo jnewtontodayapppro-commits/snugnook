@@ -61,10 +61,10 @@ The freestanding and tension-mounted kinds are. Folding screens and bookcases ju
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Most flexible</span><h4>Freestanding folding room divider</h4><p>Unfold to zone the room, fold flat when you want it open. No install, moves with you, airy or opaque. Just remember it hides the view, not the noise.</p><a class="btn" href="AMZ:folding room divider screen" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Most flexible</span><h4>Dopinmin 4-Panel Folding Room Divider</h4><p>Unfold to zone the room, fold flat when you want it open. No install, moves with you, airy or opaque. Just remember it hides the view, not the noise.</p><a class="btn" href="AMZP:B0H19WLHKW" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best double duty</span><h4>Open-back bookcase divider</h4><p>Splits the room and adds storage on both sides while the open back keeps light moving. Anchor a tall one to a stud, since a freestanding unit can tip.</p><a class="btn" href="AMZ:open back bookcase room divider" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best double duty</span><h4>6-Tier Geometric Bookcase Room Divider</h4><p>Splits the room and adds storage on both sides while the open back keeps light moving. Anchor a tall one to a stud, since a freestanding unit can tip.</p><a class="btn" href="AMZP:B0CZNVB9M5" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best privacy</span><h4>Room divider curtain + tension track</h4><p>Draw a soft wall across the room for a private sleeping zone, then open it to reclaim the space. Go floor-to-ceiling. A heavier curtain may need screwed-in brackets.</p><a class="btn" href="AMZ:room divider curtain tension rod" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best privacy</span><h4>Room Divider Curtain with Tension Rod</h4><p>Draw a soft wall across the room for a private sleeping zone, then open it to reclaim the space. Go floor-to-ceiling. A heavier curtain may need screwed-in brackets.</p><a class="btn" href="AMZP:B0DFH8C526" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 One divider won't turn a studio into a true one-bedroom. But drop it around the bed and the single room finally reads as two.

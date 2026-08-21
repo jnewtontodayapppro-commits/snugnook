@@ -57,11 +57,11 @@ The difference between a storage bed you're proud of and a wobbly weekend you re
 
 You can build every bed above with a modest kit. None of this needs a full workshop.
 
-<div class="pick"><span class="tag">The one to buy first</span><h4>Cordless drill/driver</h4><p>Drives every screw and drills every pilot hole in the frame and drawers. A single 20V kit carries the whole project.</p><a class="btn" href="AMZ:cordless drill driver kit" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">The one to buy first</span><h4>BLACK+DECKER 20V MAX Cordless Drill/Driver</h4><p>Drives every screw and drills every pilot hole in the frame and drawers. A single 20V kit carries the whole project.</p><a class="btn" href="AMZP:B0079IRIG0" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">For clean, square cuts</span><h4>Compact circular saw</h4><p>Cuts the platform, frame, and drawer panels to your exact mattress size. Square cuts are what make drawers glide, so this earns its place.</p><a class="btn" href="AMZ:compact circular saw" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">For clean, square cuts</span><h4>DOVAMAN 4-1/2" Compact Circular Saw</h4><p>Cuts the platform, frame, and drawer panels to your exact mattress size. Square cuts are what make drawers glide, so this earns its place.</p><a class="btn" href="AMZP:B0C3H6V6DY" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Don't skip these</span><h4>Drawer slides &amp; a level</h4><p>Full-extension drawer slides let the drawers pull all the way out, and a level keeps the frame true so everything fits. The small hardware that decides whether the build feels solid or sloppy.</p><a class="btn" href="AMZ:full extension drawer slides" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Don't skip these</span><h4>18" Full-Extension Drawer Slides (4 Pairs)</h4><p>Full-extension drawer slides let the drawers pull all the way out, and a level keeps the frame true so everything fits. The small hardware that decides whether the build feels solid or sloppy.</p><a class="btn" href="AMZP:B0F1KMDTZR" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 ## Common questions {#faq}
 

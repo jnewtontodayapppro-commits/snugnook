@@ -43,10 +43,10 @@ The difference between a satisfying build and a wasted Saturday is usually the p
 
 Most of the pieces above come together with a modest starter kit, no workshop required. Here's what earns its place:
 
-<div class="pick"><span class="tag">The one to buy first</span><h4>Cordless drill/driver</h4><p>The backbone of every build: driving screws, drilling pilot holes, assembling everything. A single 20V kit handles all nine projects.</p><a class="btn" href="AMZ:cordless drill driver kit" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">The one to buy first</span><h4>BLACK+DECKER 20V MAX Cordless Drill/Driver</h4><p>The backbone of every build: driving screws, drilling pilot holes, assembling everything. A single 20V kit handles all nine projects.</p><a class="btn" href="AMZP:B0079IRIG0" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">For clean, safe cuts</span><h4>Compact circular saw</h4><p>Cuts shelves, tabletops, and bench panels to your exact dimensions. A compact model stores easily in a small apartment.</p><a class="btn" href="AMZ:compact circular saw" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">For clean, safe cuts</span><h4>DOVAMAN 4-1/2" Compact Circular Saw</h4><p>Cuts shelves, tabletops, and bench panels to your exact dimensions. A compact model stores easily in a small apartment.</p><a class="btn" href="AMZP:B0C3H6V6DY" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Don't skip these</span><h4>Level, clamps &amp; a stud finder</h4><p>A level keeps shelves straight, clamps hold pieces while glue sets, and a stud finder keeps wall-mounted builds from pulling out of the drywall.</p><a class="btn" href="AMZ:stud finder level clamps set" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Don't skip these</span><h4>5-in-1 Stud Finder Wall Scanner</h4><p>A level keeps shelves straight, clamps hold pieces while glue sets, and a stud finder keeps wall-mounted builds from pulling out of the drywall.</p><a class="btn" href="AMZP:B0H9XNV7KQ" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Start with the floating shelves to build confidence, then work up to the fold-down desk or storage bench. Leave the platform bed for when you've earned it.

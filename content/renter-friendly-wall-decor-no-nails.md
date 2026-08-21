@@ -62,10 +62,10 @@ Adhesives are unreliable on anything not smooth and painted, so textured drywall
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Hang framed art</span><h4>Adhesive picture-hanging strips</h4><p>Interlocking strips hold frames flat and peel off clean with a downward pull. Buy by weight rating and size up. The whole gallery wall runs on these. No holes, no putty, no deposit drama.</p><a class="btn" href="AMZ:picture hanging strips damage free" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Hang framed art</span><h4>Command Picture-Hanging Strips</h4><p>Interlocking strips hold frames flat and peel off clean with a downward pull. Buy by weight rating and size up. The whole gallery wall runs on these. No holes, no putty, no deposit drama.</p><a class="btn" href="AMZP:B07H54NZ3K" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Lighter pieces &amp; lights</span><h4>Damage-free adhesive hooks</h4><p>Weight-rated hooks for string lights, wreaths, hanging planters, and unframed art, plus hats and keys by the door. Peel off without a mark. Cluster several for heavier items.</p><a class="btn" href="AMZ:damage free adhesive wall hooks" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Lighter pieces &amp; lights</span><h4>Command Damage-Free Wall Hooks</h4><p>Weight-rated hooks for string lights, wreaths, hanging planters, and unframed art, plus hats and keys by the door. Peel off without a mark. Cluster several for heavier items.</p><a class="btn" href="AMZP:B07712H557" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Instant feature wall</span><h4>Peel-and-stick wallpaper</h4><p>Applies like a giant sticker, repositions as you work, and removes clean from smooth cured walls. Use it on one accent wall or a bookshelf back panel to change a room reversibly.</p><a class="btn" href="AMZ:peel and stick wallpaper removable" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Instant feature wall</span><h4>Peel-and-Stick Removable Wallpaper</h4><p>Applies like a giant sticker, repositions as you work, and removes clean from smooth cured walls. Use it on one accent wall or a bookshelf back panel to change a room reversibly.</p><a class="btn" href="AMZP:B0DSKC6CX3" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Fill the walls, just do it reversibly. For more damage-free ways to make a rental your own, see our [renter-friendly upgrades guide](/guides/renter-friendly-upgrades-deposit-safe/).

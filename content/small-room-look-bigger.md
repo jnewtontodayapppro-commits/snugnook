@@ -85,10 +85,10 @@ Lean a full-length mirror instead of hanging one, use tension rods or adhesive n
 
 ## What to buy first {#picks}
 
-<div class="pick"><span class="tag">Highest impact</span><h4>Full-length leaning floor mirror</h4><p>One of the best changes for the money: no drilling, moves with you, and it bounces daylight the moment you lean it across from a window. Strap the top to the wall so it can't tip.</p><a class="btn" href="AMZ:full length floor mirror" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Highest impact</span><h4>Antok 71" Full-Length Leaning Floor Mirror</h4><p>One of the best changes for the money: no drilling, moves with you, and it bounces daylight the moment you lean it across from a window. Strap the top to the wall so it can't tip.</p><a class="btn" href="AMZP:B0CKZD8YMF" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Renter favorite</span><h4>Extra-long curtain rod + sheer panels</h4><p>The "high and wide" trick in one purchase. Look for a rod that extends well past your window and floor-length sheer panels. No-drill bracket options exist for deposit-safe installs.</p><a class="btn" href="AMZ:extra long curtain rod sheer curtains" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Renter favorite</span><h4>Extra-Long Adjustable Curtain Rod (30–144")</h4><p>The "high and wide" trick in one purchase. Look for a rod that extends well past your window and floor-length sheer panels. No-drill bracket options exist for deposit-safe installs.</p><a class="btn" href="AMZP:B0DRX68ZB2" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Reclaim the floor</span><h4>Large area rug (5x7 or bigger)</h4><p>Size up. A rug that tucks under your furniture unifies the floor and makes the whole room read larger, the opposite of the little rug most people buy.</p><a class="btn" href="AMZ:large area rug 5x7" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Reclaim the floor</span><h4>Washable Neutral Area Rug (5x7)</h4><p>Size up. A rug that tucks under your furniture unifies the floor and makes the whole room read larger, the opposite of the little rug most people buy.</p><a class="btn" href="AMZP:B0DM8J94ZJ" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Start with the mirror and the curtains this weekend. They're cheap, reversible, and you'll feel the difference the moment you step back. Everything after that is fine-tuning.

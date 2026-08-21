@@ -63,10 +63,10 @@ They're one of the cheapest, highest-impact fixes in a small kitchen, and worth 
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Biggest counter win</span><h4>Over-the-sink roll-up drying rack</h4><p>Reclaims your dish rack's footprint the day it arrives and rolls away when the dishes are dry. One of the best few dollars a tiny kitchen can spend.</p><a class="btn" href="AMZ:over the sink roll up dish drying rack" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Biggest counter win</span><h4>Roll-Up Over-the-Sink Dish Drying Rack</h4><p>Reclaims your dish rack's footprint the day it arrives and rolls away when the dishes are dry. One of the best few dollars a tiny kitchen can spend.</p><a class="btn" href="AMZP:B0BPXSBYWD" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Most versatile</span><h4>Slim rolling storage cart</h4><p>Slides into the dead gap beside the fridge or counter and pulls out three tiers of storage, plus a movable work surface when you need one.</p><a class="btn" href="AMZ:slim rolling storage cart kitchen" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Most versatile</span><h4>Pipishell 3-Tier Slim Rolling Cart</h4><p>Slides into the dead gap beside the fridge or counter and pulls out three tiers of storage, plus a movable work surface when you need one.</p><a class="btn" href="AMZP:B09P1NQJNC" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Cabinet fixer</span><h4>Pull-out under-shelf drawers (set)</h4><p>Clip under existing shelves to reach the wasted back half of every cabinet. Pair with shelf risers for the full effect.</p><a class="btn" href="AMZ:pull out cabinet organizer under shelf" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Cabinet fixer</span><h4>Pull-Out Cabinet Organizer, 21" Deep (2-Pack)</h4><p>Clip under existing shelves to reach the wasted back half of every cabinet. Pair with shelf risers for the full effect.</p><a class="btn" href="AMZP:B0D4TBQTMT" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Work counters, walls, doors, then cabinet interiors, and stop when the kitchen finally *works*. You'll usually get there long before you run out of wall.

@@ -95,10 +95,10 @@ Different problems. A storage bed shrinks what the bed *holds*; a Murphy bed is 
 
 ## Our top picks {#picks}
 
-<div class="pick"><span class="tag">Easiest win</span><h4>Upholstered storage ottoman</h4><p>Seat, table, and hidden storage in one footprint, the multi-tasker to add first. Look for a sturdy lid you can actually rest a tray on.</p><a class="btn" href="AMZ:storage ottoman with storage" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Easiest win</span><h4>SONGMICS Folding Storage Ottoman Cube</h4><p>Seat, table, and hidden storage in one footprint, the multi-tasker to add first. Look for a sturdy lid you can actually rest a tray on.</p><a class="btn" href="AMZP:B09ZY77T8D" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Studio essential</span><h4>Wall-mounted drop-leaf table</h4><p>Folds flat when you're not eating; opens to seat two to four. One of the highest-impact dining fixes for a tight floor plan.</p><a class="btn" href="AMZ:wall mounted drop leaf table" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Studio essential</span><h4>TEAMIX Wall-Mounted Drop-Leaf Folding Table</h4><p>Folds flat when you're not eating; opens to seat two to four. One of the highest-impact dining fixes for a tight floor plan.</p><a class="btn" href="AMZP:B0CMSYL7Q1" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Replaces a dresser</span><h4>Platform bed with storage drawers</h4><p>Four-plus drawers in the base can clear an entire dresser out of the room. Check whether the drawers open from the side or foot before you buy.</p><a class="btn" href="AMZ:platform bed frame with storage drawers" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Replaces a dresser</span><h4>LIKIMIO Platform Bed with 4 Storage Drawers</h4><p>Four-plus drawers in the base can clear an entire dresser out of the room. Check whether the drawers open from the side or foot before you buy.</p><a class="btn" href="AMZP:B0GS5YC9XW" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Buy for the job you actually do most, and measure the doorway first. One well-chosen multi-tasker beats three single-use pieces, most every time.

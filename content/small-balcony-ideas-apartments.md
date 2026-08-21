@@ -61,10 +61,10 @@ On a high or exposed balcony it can. Skip flyaway lightweight chairs for pieces 
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Seating for two</span><h4>Folding balcony bistro set</h4><p>Two chairs and a small table for coffee or a meal, folding flat against the wall when you want the floor. The classic small-balcony pick. Look for weather-resistant materials.</p><a class="btn" href="AMZ:folding balcony bistro set outdoor" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Seating for two</span><h4>VINGLI Folding Balcony Bistro Set (3-Piece)</h4><p>Two chairs and a small table for coffee or a meal, folding flat against the wall when you want the floor. The classic small-balcony pick. Look for weather-resistant materials.</p><a class="btn" href="AMZP:B0G3BCF6PD" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Garden without floor space</span><h4>Railing planters</h4><p>Hook over the balustrade to turn the perimeter into a container garden without using an inch of floor. Check your building's rules, then green the whole railing.</p><a class="btn" href="AMZ:railing planters balcony set" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Garden without floor space</span><h4>Balcony Railing Planter Boxes (4-Pack)</h4><p>Hook over the balustrade to turn the perimeter into a container garden without using an inch of floor. Check your building's rules, then green the whole railing.</p><a class="btn" href="AMZP:B0GVST3B6N" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Instant outdoor room</span><h4>Outdoor rug &amp; string lights</h4><p>A weatherproof rug defines the space and warms the concrete; warm string lights make it an evening spot. Cheap to add, and few things do more for how a balcony feels.</p><a class="btn" href="AMZ:outdoor rug balcony weatherproof" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Instant outdoor room</span><h4>Rugshop Weatherproof Outdoor Patio Rug</h4><p>A weatherproof rug defines the space and warms the concrete; warm string lights make it an evening spot. Cheap to add, and few things do more for how a balcony feels.</p><a class="btn" href="AMZP:B0BY9PDV1Z" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Decide the one thing you'll do out there and build only for that. Get it right and the smallest balcony stops being storage and becomes the spot you go to unwind.

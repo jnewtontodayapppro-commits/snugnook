@@ -57,10 +57,10 @@ Less than you'd think. Around 40 inches of width and 24 inches of depth comforta
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Best for corners</span><h4>Small L-shaped corner desk</h4><p>Turns an unused corner into a real workspace with more surface than its footprint suggests. Look for one with a shelf above.</p><a class="btn" href="AMZ:small l shaped corner desk" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best for corners</span><h4>Huuger Small L-Shaped Desk with Power Outlet</h4><p>Turns an unused corner into a real workspace with more surface than its footprint suggests. Look for one with a shelf above.</p><a class="btn" href="AMZP:B0D9Q542SF" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Studio essential</span><h4>Wall-mounted fold-down desk</h4><p>Folds flat against the wall when the workday ends. About the cleanest way to hide an office in a one-room apartment. Anchors into studs.</p><a class="btn" href="AMZ:wall mounted folding desk" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Studio essential</span><h4>GOYLSER Wall-Mounted Fold-Down Desk</h4><p>Folds flat against the wall when the workday ends. About the cleanest way to hide an office in a one-room apartment. Anchors into studs.</p><a class="btn" href="AMZP:B0FHHDGRDY" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Save your neck</span><h4>Adjustable laptop stand</h4><p>Raises your screen toward eye level to fix the small-desk hunch. Pair with a compact wireless keyboard for one of the cheapest upgrades with the biggest payoff.</p><a class="btn" href="AMZ:adjustable laptop stand for desk" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Save your neck</span><h4>Amazon Basics Adjustable Laptop Stand</h4><p>Raises your screen toward eye level to fix the small-desk hunch. Pair with a compact wireless keyboard for one of the cheapest upgrades with the biggest payoff.</p><a class="btn" href="AMZP:B0BLRJ4R8F" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Pick the setup that matches your space, then spend on ergonomics before looks. A workspace you can use all day beats a pretty one that leaves you sore.
