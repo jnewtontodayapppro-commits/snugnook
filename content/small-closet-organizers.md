@@ -61,10 +61,10 @@ Adopt one-in, one-out: a new shirt means an old one leaves. Keep a small donate 
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Buy this first</span><h4>Slim velvet hangers (set)</h4><p>Some of the highest return per dollar in any closet: a thinner profile, more clothes on the rod, and nothing slipping to the floor.</p><a class="btn" href="AMZ:slim velvet hangers" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Buy this first</span><h4>Amazon Basics Slim Velvet Hangers (set)</h4><p>Some of the highest return per dollar in any closet: a thinner profile, more clothes on the rod, and nothing slipping to the floor.</p><a class="btn" href="AMZP:B00FXNAAW2" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Capacity doubler</span><h4>Hanging closet rod extender</h4><p>Adds a second tier of hanging space in the dead air under your shirts. No installation, and the biggest single capacity win in a small closet (as long as your clothes are short).</p><a class="btn" href="AMZ:hanging closet rod double extender" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Capacity doubler</span><h4>STORAGE MANIAC Hanging Closet Rod (double-hang)</h4><p>Adds a second tier of hanging space in the dead air under your shirts. No installation, and the biggest single capacity win in a small closet (as long as your clothes are short).</p><a class="btn" href="AMZP:B00V9FN8LI" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Shelf fixer</span><h4>Closet shelf dividers</h4><p>Keep sweater and bag stacks upright instead of toppling. Slide onto the existing shelf, no tools.</p><a class="btn" href="AMZ:closet shelf dividers" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Shelf fixer</span><h4>Wire Shelf Dividers (set)</h4><p>Keep sweater and bag stacks upright instead of toppling. Slide onto the existing shelf, no tools.</p><a class="btn" href="AMZP:B0D52X45R4" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Work top to bottom (hangers, second rod, shelf, floor) and stop when everything has a home. Most small closets hold far more than they let on. They're just organized badly by default.

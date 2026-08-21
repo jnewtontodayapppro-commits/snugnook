@@ -66,10 +66,10 @@ A foam or low-profile hybrid within the bed's listed thickness limit, never a ma
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Best built-in look</span><h4>Cabinet-style wall bed</h4><p>Folds into a cabinet that passes for an armoire when closed, and many add side shelving a small bedroom never has. It's the priciest route and needs anchoring to the wall, so plan for both.</p><a class="btn" href="AMZ:murphy bed cabinet wall bed" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best built-in look</span><h4>AMERLIFE Full Murphy Bed with Storage</h4><p>Folds into a cabinet that passes for an armoire when closed, and many add side shelving a small bedroom never has. It's the priciest route and needs anchoring to the wall, so plan for both.</p><a class="btn" href="AMZP:B0FRMK6RJ1" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best double duty</span><h4>Murphy bed with fold-down desk</h4><p>Lower the bed without clearing the desk: the top stays level and your things stay put. The studio answer when one wall is both office and bedroom, though the install is a bigger job.</p><a class="btn" href="AMZ:murphy bed with desk combo" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best double duty</span><h4>Twin Murphy Bed with Fold-Down Desk</h4><p>Lower the bed without clearing the desk: the top stays level and your things stay put. The studio answer when one wall is both office and bedroom, though the install is a bigger job.</p><a class="btn" href="AMZP:B0FPFH2VR7" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Budget / DIY route</span><h4>Murphy bed hardware kit</h4><p>Piston or spring hardware to build your own from plans, sized to your wall for less than a finished unit. For the handy only, and best paired with a solid set of plans.</p><a class="btn" href="AMZ:murphy bed hardware kit vertical" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Budget / DIY route</span><h4>Queen Vertical Murphy Bed Hardware Kit</h4><p>Piston or spring hardware to build your own from plans, sized to your wall for less than a finished unit. For the handy only, and best paired with a solid set of plans.</p><a class="btn" href="AMZP:B017701FUE" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Settle the anchoring question first, since it splits the field between built-in cabinets and renter-friendly freestanding beds. Get that right and a Murphy bed hands back more floor than almost anything else you can put in a small home.

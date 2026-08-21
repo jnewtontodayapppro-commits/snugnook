@@ -58,10 +58,10 @@ No. Over-the-door racks need a standard hinged door with a free top edge to hook
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Most versatile</span><h4>Clear-pocket over-the-door organizer</h4><p>The do-everything pick: shoes, toiletries, craft supplies, or pantry packets. Clear pockets mean you actually find what you stored. Get reinforced ones for heavier loads.</p><a class="btn" href="AMZ:over the door clear pocket organizer" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Most versatile</span><h4>Simple Houseware 24-Pocket Over-the-Door Organizer</h4><p>The do-everything pick: shoes, toiletries, craft supplies, or pantry packets. Clear pockets mean you actually find what you stored. Get reinforced ones for heavier loads.</p><a class="btn" href="AMZP:B01D58DRVC" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best for pantry</span><h4>Adjustable wire-basket door rack</h4><p>Adjustable baskets for cans, boxes, and spices on a pantry or cabinet door. Check the basket depth against your door clearance.</p><a class="btn" href="AMZ:over the door pantry basket organizer" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best for pantry</span><h4>Delamu 6-Tier Over-the-Door Basket Rack</h4><p>Adjustable baskets for cans, boxes, and spices on a pantry or cabinet door. Check the basket depth against your door clearance.</p><a class="btn" href="AMZP:B0C4LPSQP3" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best no-rattle fit</span><h4>Rack with adjustable over-the-top brackets</h4><p>Fits thicker or non-standard doors and stops the organizer rattling every time the door moves. The upgrade worth making if your door isn't standard.</p><a class="btn" href="AMZ:over the door organizer adjustable hooks" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best no-rattle fit</span><h4>Adjustable Over-the-Door Hook Organizer</h4><p>Fits thicker or non-standard doors and stops the organizer rattling every time the door moves. The upgrade worth making if your door isn't standard.</p><a class="btn" href="AMZP:B0BYSGKMP3" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Start with the door you open most, usually the pantry or the bedroom closet. One afternoon, and you've found a wall of storage that was hiding in plain sight.

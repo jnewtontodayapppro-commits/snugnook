@@ -61,10 +61,10 @@ A top-heavy one can, especially if it gets bumped or the tank is narrow. Load th
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Biggest win</span><h4>Over-the-toilet storage rack</h4><p>Turns dead wall space into two or three shelves without touching the wall. The first thing to add to any cabinet-less bathroom. Measure your tank first and keep heavy items low.</p><a class="btn" href="AMZ:over the toilet storage rack" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Biggest win</span><h4>Kitsure Over-the-Toilet Storage Rack</h4><p>Turns dead wall space into two or three shelves without touching the wall. The first thing to add to any cabinet-less bathroom. Measure your tank first and keep heavy items low.</p><a class="btn" href="AMZP:B0DYMVRN8N" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Shower saver</span><h4>Hanging shower caddy (rustproof)</h4><p>Loops over the showerhead, so no suction cups that fall at dawn. Choose rustproof so it doesn't streak your tub.</p><a class="btn" href="AMZ:hanging shower caddy rustproof" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Shower saver</span><h4>Never-Rust Aluminum Hanging Shower Caddy</h4><p>Loops over the showerhead, so no suction cups that fall at dawn. Choose rustproof so it doesn't streak your tub.</p><a class="btn" href="AMZP:B0BNH6Q3XV" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Under-sink fix</span><h4>Expandable under-sink organizer</h4><p>Adjustable shelving that works around the pipes to reclaim the wasted cabinet space below the sink.</p><a class="btn" href="AMZ:under sink organizer expandable" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Under-sink fix</span><h4>NIUXX Expandable 2-Tier Under-Sink Organizer</h4><p>Adjustable shelving that works around the pipes to reclaim the wasted cabinet space below the sink.</p><a class="btn" href="AMZP:B0GD6JR1WD" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Start with the over-the-toilet rack for the biggest instant gain, then work outward to the shower and counter. It'll never be a big bathroom, but it can be an organized one, and all of it comes down in ten minutes on moving day.

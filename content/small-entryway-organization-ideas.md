@@ -66,10 +66,10 @@ Give the overflow one catch-all: a single bowl or basket for the odds and ends t
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Start here</span><h4>Wall-mounted key &amp; mail organizer</h4><p>A shelf, a tray, and hooks in one small unit: the exact landing spot for keys, mail, and sunglasses so they stop piling on the counter. A lot of function for the price. Most need a couple of screws.</p><a class="btn" href="AMZ:wall mounted key holder shelf mail organizer" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Start here</span><h4>Lwenki Wall-Mounted Key &amp; Mail Organizer</h4><p>A shelf, a tray, and hooks in one small unit: the exact landing spot for keys, mail, and sunglasses so they stop piling on the counter. A lot of function for the price. Most need a couple of screws.</p><a class="btn" href="AMZP:B0BBLJ9XJN" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Seat + shoe storage</span><h4>Slim entryway storage bench</h4><p>Sit to put shoes on, store them inside, drop keys on top. Three jobs in one narrow footprint. Look for a shallow depth so it hugs the wall and stays out of the walkway.</p><a class="btn" href="AMZ:narrow entryway bench with shoe storage" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Seat + shoe storage</span><h4>HOOBRO Small 3-Tier Shoe Bench (slim)</h4><p>Sit to put shoes on, store them inside, drop keys on top. Three jobs in one narrow footprint. Look for a shallow depth so it hugs the wall and stays out of the walkway.</p><a class="btn" href="AMZP:B0DP2QMJWX" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Coats without holes</span><h4>Over-the-door or adhesive hook rail</h4><p>Turns bare wall or the back of the door into coat, bag, and umbrella storage with no drilling, and it peels off clean at move-out. Check the weight rating so a heavy coat doesn't pull it down.</p><a class="btn" href="AMZ:over the door coat hooks rack" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Coats without holes</span><h4>Adjustable Over-the-Door Hook Organizer</h4><p>Turns bare wall or the back of the door into coat, bag, and umbrella storage with no drilling, and it peels off clean at move-out. Check the weight rating so a heavy coat doesn't pull it down.</p><a class="btn" href="AMZP:B0BYSGKMP3" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Two feet of wall is all it takes. Get that first-and-last impression in order and the whole apartment feels a notch more together, no renovation required.
