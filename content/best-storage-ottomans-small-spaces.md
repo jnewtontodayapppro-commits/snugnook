@@ -60,10 +60,10 @@ Match it to the coffee table it replaces: roughly half to two-thirds the length 
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Best all-rounder</span><h4>Lift-top coffee-table ottoman</h4><p>Tray-ready surface on top, deep storage inside, footrest and extra seat when you need them. One of the most useful single pieces in a small living room.</p><a class="btn" href="AMZ:lift top storage ottoman coffee table" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best all-rounder</span><h4>SIMPLIHOME Owen 42" Lift-Top Storage Ottoman</h4><p>Tray-ready surface on top, deep storage inside, footrest and extra seat when you need them. One of the most useful single pieces in a small living room.</p><a class="btn" href="AMZP:B09LMQCM9K" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Most flexible</span><h4>Storage cube ottoman (set of two)</h4><p>Light enough to move one-handed: pull up as seating, tuck away after. A matched pair reads as intentional and slots into gaps a big ottoman can't.</p><a class="btn" href="AMZ:storage cube ottoman set of 2" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Most flexible</span><h4>Folding Storage Ottomans with Pockets (Set of 2)</h4><p>Light enough to move one-handed: pull up as seating, tuck away after. A matched pair reads as intentional and slots into gaps a big ottoman can't.</p><a class="btn" href="AMZP:B07NLWJBWG" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Best for entryways</span><h4>Storage bench</h4><p>Sit to pull your shoes on with the shoes stored inside; hugs a wall so it eats almost no floor. Can retire a shoe rack and a hall chair at once.</p><a class="btn" href="AMZ:entryway storage bench with cushion" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Best for entryways</span><h4>VASAGLE Entryway Storage Bench with Cushion</h4><p>Sit to pull your shoes on with the shoes stored inside; hugs a wall so it eats almost no floor. Can retire a shoe rack and a hall chair at once.</p><a class="btn" href="AMZP:B0BW3RC3Y5" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Match the type to your room's missing piece, then confirm the weight rating before you trust it with your weight. Few purchases do more for a small space per square foot.

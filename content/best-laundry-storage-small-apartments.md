@@ -62,10 +62,10 @@ Often the smartest move, since the bathroom is usually the closest thing to a ut
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Start here</span><h4>Slim divided laundry hamper</h4><p>Tall, narrow, and split for lights and darks so sorting happens as you go. Tucks into a closet corner or a gap, and it's the buy that ends the pile on the chair.</p><a class="btn" href="AMZ:slim divided laundry hamper 3 section" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Start here</span><h4>SOLEDI 3-Section Divided Laundry Hamper</h4><p>Tall, narrow, and split for lights and darks so sorting happens as you go. Tucks into a closet corner or a gap, and it's the buy that ends the pile on the chair.</p><a class="btn" href="AMZP:B0CQR5LCL3" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Use the vertical space</span><h4>Over-the-washer shelving unit</h4><p>Freestanding shelving that straddles or stands beside the machines, turning the wasted air above them into storage for detergent and baskets. No drilling for renters. Check your clearance before ordering.</p><a class="btn" href="AMZ:over the washer dryer storage shelf" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Use the vertical space</span><h4>U13 Over-the-Washer/Dryer Storage Shelves</h4><p>Freestanding shelving that straddles or stands beside the machines, turning the wasted air above them into storage for detergent and baskets. No drilling for renters. Check your clearance before ordering.</p><a class="btn" href="AMZP:B0D78Q43RP" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Fill the gap</span><h4>Slim rolling laundry cart</h4><p>Rolls into the narrow gap beside the washer as a pull-out tower for detergent and supplies, then tucks away. Measure the gap first, since these come in set widths.</p><a class="btn" href="AMZ:slim rolling laundry storage cart" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Fill the gap</span><h4>7.1" Slim Rolling Laundry Cart (4-Tier)</h4><p>Rolls into the narrow gap beside the washer as a pull-out tower for detergent and supplies, then tucks away. Measure the gap first, since these come in set widths.</p><a class="btn" href="AMZP:B0FNWHL198" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Build around what you've got, give every part of the chore a designated home, and laundry stops being the thing you dread in a small apartment.

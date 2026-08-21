@@ -61,10 +61,10 @@ Yes. Damp shoes sealed behind a cabinet front or lidded bench turn musty fast, g
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Fastest fix</span><h4>Over-the-door shoe organizer</h4><p>Hangs on any door in seconds and holds a dozen or so pairs on space you weren't using. No floor cost, no tools, and it comes down clean at move-out. Best for flats and sneakers rather than tall boots.</p><a class="btn" href="AMZ:over the door shoe organizer" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Fastest fix</span><h4>Simple Houseware 24-Pocket Over-the-Door Shoe Organizer</h4><p>Hangs on any door in seconds and holds a dozen or so pairs on space you weren't using. No floor cost, no tools, and it comes down clean at move-out. Best for flats and sneakers rather than tall boots.</p><a class="btn" href="AMZP:B01D58DRVC" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Hide them entirely</span><h4>Slim shoe storage cabinet</h4><p>Shallow tilt-out drawers stand shoes on edge behind a clean front, tucking a collection into ten to fifteen inches of depth. Measure and count pairs first, and skip it if you own tall boots.</p><a class="btn" href="AMZ:slim shoe cabinet tilt out" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Hide them entirely</span><h4>40" Narrow Shoe Cabinet (Slim Entryway)</h4><p>Shallow tilt-out drawers stand shoes on edge behind a clean front, tucking a collection into ten to fifteen inches of depth. Measure and count pairs first, and skip it if you own tall boots.</p><a class="btn" href="AMZP:B0FNMCV8YM" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Seat + storage</span><h4>Shoe storage bench</h4><p>A seat and a shoe store in one footprint, so you sit to put shoes on while they wait inside, retiring a rack and a hall chair. Good for the entryway if you have room for it.</p><a class="btn" href="AMZ:shoe storage bench entryway" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Seat + storage</span><h4>HOOBRO Shoe Storage Bench with Cushion (39")</h4><p>A seat and a shoe store in one footprint, so you sit to put shoes on while they wait inside, retiring a rack and a hall chair. Good for the entryway if you have room for it.</p><a class="btn" href="AMZP:B09XTD2QJL" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Vertical or hidden, this season by the door, and a ruthless cull before you buy a thing. Do that and the pile that greets you at the door, and buries your closet floor, has a much harder time forming.

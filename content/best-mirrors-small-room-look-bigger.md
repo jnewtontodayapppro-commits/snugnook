@@ -66,10 +66,10 @@ They genuinely work, and they need no drilling. The floor-to-ceiling height adds
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Biggest impact</span><h4>Large arched wall mirror</h4><p>A tall arched shape draws the eye up and reflects a whole wall's worth of light. The go-to if you're buying one mirror to open up a small room.</p><a class="btn" href="AMZ:large arched wall mirror" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Biggest impact</span><h4>CIRCUMI Arched Wall Mirror (36"x48")</h4><p>A tall arched shape draws the eye up and reflects a whole wall's worth of light. The go-to if you're buying one mirror to open up a small room.</p><a class="btn" href="AMZP:B0DTP7WQ39" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">No drilling</span><h4>Oversized leaning floor mirror</h4><p>Props against the wall for instant height and floor-to-ceiling depth, and covers your full-length-mirror needs too. Renter-friendly and easy to move. Strap the top for safety.</p><a class="btn" href="AMZ:large leaning floor mirror full length" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">No drilling</span><h4>Antok 71" Arched Full-Length Leaning Mirror</h4><p>Props against the wall for instant height and floor-to-ceiling depth, and covers your full-length-mirror needs too. Renter-friendly and easy to move. Strap the top for safety.</p><a class="btn" href="AMZP:B0CKZD8YMF" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Light and airy</span><h4>Frameless round mirror</h4><p>A thin, frameless edge adds no visual weight, just light. Softens a boxy room and looks right over a console, an entry table, or a sink.</p><a class="btn" href="AMZ:frameless round mirror wall" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Light and airy</span><h4>Better Bevel 24" Frameless Round Mirror</h4><p>A thin, frameless edge adds no visual weight, just light. Softens a boxy room and looks right over a console, an entry table, or a sink.</p><a class="btn" href="AMZP:B078RYZ1W9" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Buy big, hang it toward the light, and point it at something worth doubling. That's the method. For the rest of the playbook, see our guide to [making a small room look bigger](/guides/make-small-room-look-bigger/).

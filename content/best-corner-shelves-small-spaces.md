@@ -68,10 +68,10 @@ Not really. It's among the most beginner-friendly builds: a straightforward cut 
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Maximum storage</span><h4>Tall corner shelf tower</h4><p>Climbs the full height of the corner for five or six tiers in a towel-sized footprint. A lot of capacity per square inch. Anchor it if you're loading the top shelves.</p><a class="btn" href="AMZ:tall corner shelf stand 5 tier" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Maximum storage</span><h4>Yoobure 5-Tier Corner Shelf Stand (67.5")</h4><p>Climbs the full height of the corner for five or six tiers in a towel-sized footprint. A lot of capacity per square inch. Anchor it if you're loading the top shelves.</p><a class="btn" href="AMZP:B0CHYCMB6S" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Floor stays clear</span><h4>Floating corner shelves (set)</h4><p>Mount into the corner for display and light storage with nothing touching the ground. Stack several up the corner to build a whole vertical display.</p><a class="btn" href="AMZ:floating corner shelves set" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Floor stays clear</span><h4>Round Corner Floating Shelves (Set of 4)</h4><p>Mount into the corner for display and light storage with nothing touching the ground. Stack several up the corner to build a whole vertical display.</p><a class="btn" href="AMZP:B0DYNMYZ8R" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Make the corner work</span><h4>Compact corner desk</h4><p>Turns two walls of dead space into a real workspace with more surface than its footprint suggests, while the center of the room stays open.</p><a class="btn" href="AMZ:small corner desk compact" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Make the corner work</span><h4>Giantex Small Corner Desk with Charging Station</h4><p>Turns two walls of dead space into a real workspace with more surface than its footprint suggests, while the center of the room stays open.</p><a class="btn" href="AMZP:B0FF9LN9RY" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Match the type to your corner, and if you're even a little handy, build it. Either way, stop letting the corners sit empty; they're the easiest storage you're not using.

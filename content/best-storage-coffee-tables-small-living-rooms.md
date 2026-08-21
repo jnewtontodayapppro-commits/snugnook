@@ -70,10 +70,10 @@ Nesting tables and cubes, by a wide margin: light, and they split into pieces yo
 
 ## Our product picks {#picks}
 
-<div class="pick"><span class="tag">Most versatile</span><h4>Lift-top storage coffee table</h4><p>Top rises to laptop or dinner height and hides a deep storage well underneath: a coffee table, chest, and occasional desk in one. Check for a smooth, locking mechanism.</p><a class="btn" href="AMZ:lift top storage coffee table" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Most versatile</span><h4>SEDETA 31.5" Lift-Top Storage Coffee Table</h4><p>Top rises to laptop or dinner height and hides a deep storage well underneath: a coffee table, chest, and occasional desk in one. Check for a smooth, locking mechanism.</p><a class="btn" href="AMZP:B0D3CF6B38" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Neatest look</span><h4>Coffee table with drawers &amp; shelf</h4><p>Drawers hide remotes and clutter, the lower shelf holds books or baskets. The low-maintenance, always-tidy option. Look for drawers that open from both sides.</p><a class="btn" href="AMZ:coffee table with drawers and storage shelf" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Neatest look</span><h4>40" Coffee Table with Drawers &amp; Storage</h4><p>Drawers hide remotes and clutter, the lower shelf holds books or baskets. The low-maintenance, always-tidy option. Look for drawers that open from both sides.</p><a class="btn" href="AMZP:B0G43J3WKW" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
-<div class="pick"><span class="tag">Most flexible</span><h4>Nesting tables with storage</h4><p>Pull apart for guests, stack into one small footprint the rest of the time. The pick for a studio or the tightest room, where the table needs to nearly disappear.</p><a class="btn" href="AMZ:nesting coffee tables with storage" rel="nofollow sponsored">Check price on Amazon →</a></div>
+<div class="pick"><span class="tag">Most flexible</span><h4>GOFLAME Nesting Coffee Tables (Set of 2)</h4><p>Pull apart for guests, stack into one small footprint the rest of the time. The pick for a studio or the tightest room, where the table needs to nearly disappear.</p><a class="btn" href="AMZP:B0GKFH46H9" rel="nofollow sponsored">Check price on Amazon →</a></div>
 
 Match the type to how you actually live, and if you're even a little handy, price out building one for an exact fit. Either way, don't let the center of your living room hold nothing but a mug.
