@@ -41,6 +41,14 @@ function amazonLink(term) {
   return site.amazonTag ? `${base}&tag=${encodeURIComponent(site.amazonTag)}` : base;
 }
 
+// Builds a link to a SPECIFIC Amazon product by ASIN (preferred — converts far
+// better than a search page). Use `AMZP:<ASIN>` in a pick button; falls back to
+// `AMZ:<search term>` only when no specific product has been chosen yet.
+function amazonProduct(asin) {
+  const base = `https://www.amazon.com/dp/${encodeURIComponent(asin.trim())}`;
+  return site.amazonTag ? `${base}?tag=${encodeURIComponent(site.amazonTag)}` : base;
+}
+
 // Renders a ClickBank "build it yourself" callout — but ONLY if the offer's
 // HopLink is configured. Until then it renders nothing (no dead links ship).
 function cbCallout(key) {
@@ -64,6 +72,7 @@ function loadPosts() {
       const body = marked
         .parse(content)
         .replace(/<h([2-6])>([^<]*?)\s*\{#([\w-]+)\}<\/h\1>/g, '<h$1 id="$3">$2</h$1>')
+        .replace(/href="AMZP:([A-Za-z0-9]{10})"(\s+rel="[^"]*")?/g, (_m, asin) => `href="${amazonProduct(asin)}" target="_blank" rel="nofollow sponsored"`)
         .replace(/href="AMZ:([^"]+)"(\s+rel="[^"]*")?/g, (_m, term) => `href="${amazonLink(term)}" target="_blank" rel="nofollow sponsored"`)
         .replace(/<p>\s*\[\[cb:([\w-]+)\]\]\s*<\/p>/g, (_m, key) => cbCallout(key));
       const words = content.split(/\s+/).filter(Boolean).length;
